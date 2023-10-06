@@ -1,6 +1,6 @@
 # Leetcode Practice
 
-## Javascript
+## JavaScript
 [2620.Counter](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/2620_Counter.js)
 
 [2621.Sleep](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/2621_Sleep.js)
