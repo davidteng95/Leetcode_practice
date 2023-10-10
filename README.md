@@ -13,3 +13,5 @@
 [577.Employee Bonus](https://github.com/davidteng95/Leetcode_practice/blob/main/Database/577_EmployeeBonus.sql)
 
 [182.Duplicate Emails](https://github.com/davidteng95/Leetcode_practice/blob/main/Database/182_DuplicateEmails.sql)
+
+[196.Delete Duplicate Emails](https://github.com/davidteng95/Leetcode_practice/blob/main/Database/196_DeleteDuplicateEmails.sql)
