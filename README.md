@@ -1,6 +1,8 @@
 # Leetcode Practice
 
 ## JavaScript
+[121.Best Time to Buy and Sell Stock](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/121_BestTimeToBuyAndSellStock.js)
+
 [125.Valid Palindrome](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/125_ValidPalindrome.js)
 
 [2620.Counter](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/2620_Counter.js)
