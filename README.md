@@ -1,6 +1,8 @@
 # Leetcode Practice
 
 ## JavaScript
+[58.Length of Last Word](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/58_LengthOfLastWord.js)
+
 [66.Plus One](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/66_PlusOne.js)
 
 [121.Best Time to Buy and Sell Stock](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/121_BestTimeToBuyAndSellStock.js)
