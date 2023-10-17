@@ -1,6 +1,8 @@
 # Leetcode Practice
 
 ## JavaScript
+[69.Sqrt(x)](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/69_Sqrt(x).js)
+
 [58.Length of Last Word](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/58_LengthOfLastWord.js)
 
 [66.Plus One](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/66_PlusOne.js)
