@@ -1,6 +1,8 @@
 # Leetcode Practice
 
 ## JavaScript
+[2235.Add Two Integers](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/2235_AddTwoIntegers.js)
+
 [1431.Kids With the Greatest Number of Candies](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/1431_KidsWithTheGreatestNumberOfCandies.js)
 
 [2703.Return Length of Arguments Passed](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/2703_ReturnLengthOfArgumentsPassed.js)
