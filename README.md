@@ -28,6 +28,8 @@
 [2667.Create Hello World Function](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/2667_CreateHelloWorldFunction.js)
 
 ## SQL
+[1683.Invalid Tweets](https://github.com/davidteng95/Leetcode_practice/blob/main/Database/1683_InvalidTweets.sql)
+
 [595.Big Countries](https://github.com/davidteng95/Leetcode_practice/blob/main/Database/595_BigCountries.sql)
 
 [1757.Recyclable and Low Fat Products](https://github.com/davidteng95/Leetcode_practice/blob/main/Database/1757_RecyclableAndLowFatProducts.sql)
