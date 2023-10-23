@@ -1,6 +1,8 @@
 # Leetcode Practice
 
 ## JavaScript
+[2769.Find the Maximum Achievable Number](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/2769_FindTheMaximumAchievableNumber.js)
+
 [1108.Defanging an IP Address](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/1108_DefangingAnIPAddress.js)
 
 [2469.Convert the Temperature](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/2469_ConvertTheTemperature.js)
