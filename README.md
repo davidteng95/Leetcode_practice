@@ -1,6 +1,8 @@
 # Leetcode Practice
 
 ## JavaScript
+[1108.Defanging an IP Address](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/1108_DefangingAnIPAddress.js)
+
 [2469.Convert the Temperature](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/2469_ConvertTheTemperature.js)
 
 [2798.Number of Employees Who Met the Target](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/2798_NumberOfEmployeesWhoMetTheTarget.js)
