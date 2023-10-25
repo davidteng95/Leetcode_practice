@@ -1,6 +1,8 @@
 # Leetcode Practice
 
 ## JavaScript
+[2520.Count the Digits That Divide a Number](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/2520_CountTheDigitsThatDivideANumber.js)
+
 [709.To Lower Case](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/709_ToLowerCase.js)
 
 [2413.Smallest Even Multiple](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/2413_SmallestEvenMultiple.js)
