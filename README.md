@@ -1,6 +1,8 @@
 # Leetcode Practice
 
 ## JavaScript
+[1323.Maximum 69 Number](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/1323_Maximum69Number.js)
+
 [557.Reverse Words in a String III](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/557_ReverseWordsInAStringIII.js)
 
 [1816.Truncate Sentence](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/1816_TruncateSentence.js)
