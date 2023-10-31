@@ -1,6 +1,8 @@
 # Leetcode Practice
 
 ## JavaScript
+[2651.Calculate Delayed Arrival Time](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/2651_CalculateDelayedArrivalTime.js)
+
 [2665.Counter II](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/2665_CounterII.js)
 
 [1323.Maximum 69 Number](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/1323_Maximum69Number.js)
