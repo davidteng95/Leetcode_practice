@@ -1,6 +1,8 @@
 # Leetcode Practice
 
 ## JavaScript
+[2119.A Number After a Double Reversal](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/2119_ANumberAfterADoubleReversal.js)
+
 [2651.Calculate Delayed Arrival Time](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/2651_CalculateDelayedArrivalTime.js)
 
 [2665.Counter II](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/2665_CounterII.js)
