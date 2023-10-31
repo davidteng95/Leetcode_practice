@@ -50,6 +50,8 @@
 [2667.Create Hello World Function](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/2667_CreateHelloWorldFunction.js)
 
 ## SQL
+[1729.Find Followers Count](https://github.com/davidteng95/Leetcode_practice/blob/main/Database/1729_FindFollowersCount.sql)
+
 [1378.Replace Employee ID With The Unique Identifier](https://github.com/davidteng95/Leetcode_practice/blob/main/Database/1378_ReplaceEmployeeIDWithTheUniqueIdentifier.sql)
 
 [2356.Number of Unique Subjects Taught by Each Teacher](https://github.com/davidteng95/Leetcode_practice/blob/main/Database/2356_NumberOfUniqueSubjectsTaughtByEachTeacher.sql)
