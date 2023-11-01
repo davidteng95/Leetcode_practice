@@ -52,6 +52,8 @@
 [2667.Create Hello World Function](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/2667_CreateHelloWorldFunction.js)
 
 ## SQL
+[1075.Project Employees I](https://github.com/davidteng95/Leetcode_practice/blob/main/Database/1075_ProjectEmployeesI.sql)
+
 [1729.Find Followers Count](https://github.com/davidteng95/Leetcode_practice/blob/main/Database/1729_FindFollowersCount.sql)
 
 [1378.Replace Employee ID With The Unique Identifier](https://github.com/davidteng95/Leetcode_practice/blob/main/Database/1378_ReplaceEmployeeIDWithTheUniqueIdentifier.sql)
