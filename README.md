@@ -1,6 +1,8 @@
 # Leetcode Practice
 
 ## JavaScript
+[1281.Subtract the Product and Sum of Digits of an Integer](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/1281_SubtractTheProductAndSumOfDigitsOfAnInteger.js)
+
 [2678.Number of Senior Citizens](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/2678_NumberOfSeniorCitizens.js)
 
 [1351.Count Negative Numbers in a Sorted Matrix](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/1351_CountNegativeNumbersInASortedMatrix.js)
