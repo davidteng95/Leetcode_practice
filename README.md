@@ -60,6 +60,8 @@
 [2667.Create Hello World Function](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/2667_CreateHelloWorldFunction.js)
 
 ## SQL
+[1407.Top Travellers](https://github.com/davidteng95/Leetcode_practice/blob/main/Database/1407_TopTravellers.sql)
+
 [1075.Project Employees I](https://github.com/davidteng95/Leetcode_practice/blob/main/Database/1075_ProjectEmployeesI.sql)
 
 [1729.Find Followers Count](https://github.com/davidteng95/Leetcode_practice/blob/main/Database/1729_FindFollowersCount.sql)
