@@ -1,6 +1,8 @@
 # Leetcode Practice
 
 ## JavaScript
+[2678.Number of Senior Citizens](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/2678_NumberOfSeniorCitizens.js)
+
 [1351.Count Negative Numbers in a Sorted Matrix](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/1351_CountNegativeNumbersInASortedMatrix.js)
 
 [344.Reverse String](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/344_ReverseString.js)
