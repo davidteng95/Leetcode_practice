@@ -1,6 +1,8 @@
 # Leetcode Practice
 
 ## JavaScript
+[2427.Number of Common Factors](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/2427_NumberOfCommonFactors.js)
+
 [728.Self Dividing Numbers](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/728_SelfDividingNumbers.js)
 
 [9.Palindrome Number](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/9_PalindromeNumber.js)
