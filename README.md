@@ -1,6 +1,8 @@
 # Leetcode Practice
 
 ## JavaScript
+[728.Self Dividing Numbers](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/728_SelfDividingNumbers.js)
+
 [9.Palindrome Number](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/9_PalindromeNumber.js)
 
 [1342.Number of Steps to Reduce a Number to Zero](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/1342_NumberOfStepsToReduceANumberToZero.js)
