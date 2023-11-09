@@ -72,6 +72,8 @@
 [2667.Create Hello World Function](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/2667_CreateHelloWorldFunction.js)
 
 ## SQL
+[584.Find Customer Referee](https://github.com/davidteng95/Leetcode_practice/blob/main/Database/584_FindCustomerReferee.sql)
+
 [1148.Article Views I](https://github.com/davidteng95/Leetcode_practice/blob/main/Database/1148_ArticleViewsI.sql)
 
 [1407.Top Travellers](https://github.com/davidteng95/Leetcode_practice/blob/main/Database/1407_TopTravellers.sql)
