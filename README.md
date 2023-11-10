@@ -1,6 +1,8 @@
 # Leetcode Practice
 
 ## JavaScript
+[1732.Find the Highest Altitude](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/1732_FindTheHighestAltitude.js)
+
 [1480.Running Sum of 1d Array](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/1480_RunningSumOf1dArray.js)
 
 [2427.Number of Common Factors](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/2427_NumberOfCommonFactors.js)
