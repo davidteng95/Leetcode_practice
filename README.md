@@ -76,6 +76,8 @@
 [2667.Create Hello World Function](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/2667_CreateHelloWorldFunction.js)
 
 ## SQL
+[619.Biggest Single Number](https://github.com/davidteng95/Leetcode_practice/blob/main/Database/619_BiggestSingleNumber.sql)
+
 [596.Classes More Than 5 Students](https://github.com/davidteng95/Leetcode_practice/blob/main/Database/596_ClassesMoreThan5Students.sql)
 
 [620.Not Boring Movies](https://github.com/davidteng95/Leetcode_practice/blob/main/Database/620_NotBoringMovies.sql)
