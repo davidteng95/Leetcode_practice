@@ -1,6 +1,8 @@
 # Leetcode Practice
 
 ## JavaScript
+[1920.Build Array from Permutation](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/1920_BuildArrayFromPermutation.js)
+
 [1768.Merge Strings Alternately](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/1768_MergeStringsAlternately.js)
 
 [1732.Find the Highest Altitude](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/1732_FindTheHighestAltitude.js)
