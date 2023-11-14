@@ -80,6 +80,8 @@
 [2667.Create Hello World Function](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/2667_CreateHelloWorldFunction.js)
 
 ## SQL
+[1890.The Latest Login in 2020](https://github.com/davidteng95/Leetcode_practice/blob/main/Database/1890_TheLatestLoginIn2020.sql)
+
 [619.Biggest Single Number](https://github.com/davidteng95/Leetcode_practice/blob/main/Database/619_BiggestSingleNumber.sql)
 
 [596.Classes More Than 5 Students](https://github.com/davidteng95/Leetcode_practice/blob/main/Database/596_ClassesMoreThan5Students.sql)
