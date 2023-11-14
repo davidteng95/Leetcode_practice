@@ -1,6 +1,8 @@
 # Leetcode Practice
 
 ## JavaScript
+[771.Jewels and Stones](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/771_JewelsAndStones.js)
+
 [1920.Build Array from Permutation](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/1920_BuildArrayFromPermutation.js)
 
 [1768.Merge Strings Alternately](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/1768_MergeStringsAlternately.js)
