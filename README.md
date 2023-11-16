@@ -82,6 +82,8 @@
 [2667.Create Hello World Function](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/2667_CreateHelloWorldFunction.js)
 
 ## SQL
+[511.Game Play Analysis](https://github.com/davidteng95/Leetcode_practice/blob/main/Database/511_GamePlayAnalysisI.sql)
+
 [1527.Patients With a Condition](https://github.com/davidteng95/Leetcode_practice/blob/main/Database/1527_PatientsWithACondition.sql)
 
 [1068.Product Sales Analysis](https://github.com/davidteng95/Leetcode_practice/blob/main/Database/1068_ProductSalesAnalysisI.sql)
