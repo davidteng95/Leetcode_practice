@@ -1,6 +1,8 @@
 # Leetcode Practice
 
 ## JavaScript
+[1662.Check If Two String Arrays are Equivalent](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/1662_CheckIfTwoStringArraysAreEquivalent.js)
+
 [2535.Difference Between Element Sum and Digit Sum of an Array](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/2535_DifferenceBetweenElementSumAndDigitSumOfAnArray.js)
 
 [771.Jewels and Stones](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/771_JewelsAndStones.js)
