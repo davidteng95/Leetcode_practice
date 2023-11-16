@@ -1,6 +1,8 @@
 # Leetcode Practice
 
 ## JavaScript
+[2535.Difference Between Element Sum and Digit Sum of an Array](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/2535_DifferenceBetweenElementSumAndDigitSumOfAnArray.js)
+
 [771.Jewels and Stones](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/771_JewelsAndStones.js)
 
 [1920.Build Array from Permutation](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/1920_BuildArrayFromPermutation.js)
