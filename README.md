@@ -1,6 +1,8 @@
 # Leetcode Practice
 
 ## JavaScript
+[1929.Concatenation of Array](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/1929_ConcatenationOfArray.js)
+
 [2011.Final Value of Variable After Performing Operations](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/2011_FinalValueOfVariableAfterPerformingOperations.js)
 
 [1662.Check If Two String Arrays are Equivalent](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/1662_CheckIfTwoStringArraysAreEquivalent.js)
