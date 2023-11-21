@@ -90,6 +90,8 @@
 [2667.Create Hello World Function](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/2667_CreateHelloWorldFunction.js)
 
 ## SQL
+[1633.Percentage of Users Attended a Contest](https://github.com/davidteng95/Leetcode_practice/blob/main/Database/1633_PercentageOfUsersAttendedAContest.sql)
+
 [1327.List the Products Ordered in a Period](https://github.com/davidteng95/Leetcode_practice/blob/main/Database/1327_ListTheProductsOrderedInAPeriod.sql)
 
 [586.Customer Placing the Largest Number of Orders](https://github.com/davidteng95/Leetcode_practice/blob/main/Database/586_CustomerPlacingTheLargestNumberOfOrders.sql)
