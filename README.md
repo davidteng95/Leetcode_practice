@@ -1,6 +1,8 @@
 # Leetcode Practice
 
 ## JavaScript
+[2160.Minimum Sum of Four Digit Number After Splitting Digits](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/2160_MinimumSumOfFourDigitNumberAfterSplittingDigits.js)
+
 [2114.Maximum Number of Words Found in Sentences](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/2114_MaximumNumberOfWordsFoundInSentences.js)
 
 [1929.Concatenation of Array](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/1929_ConcatenationOfArray.js)
