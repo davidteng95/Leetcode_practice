@@ -1,6 +1,8 @@
 # Leetcode Practice
 
 ## JavaScript
+[1672.Richest Customer Wealth](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/1672_RichestCustomerWealth.js)
+
 [2160.Minimum Sum of Four Digit Number After Splitting Digits](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/2160_MinimumSumOfFourDigitNumberAfterSplittingDigits.js)
 
 [2114.Maximum Number of Words Found in Sentences](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/2114_MaximumNumberOfWordsFoundInSentences.js)
