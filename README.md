@@ -1,6 +1,8 @@
 # Leetcode Practice
 
 ## JavaScript
+[1678.Goal Parser Interpretation](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/1678_GoalParserInterpretation.js)
+
 [1672.Richest Customer Wealth](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/1672_RichestCustomerWealth.js)
 
 [2160.Minimum Sum of Four Digit Number After Splitting Digits](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/2160_MinimumSumOfFourDigitNumberAfterSplittingDigits.js)
