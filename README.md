@@ -1,6 +1,8 @@
 # Leetcode Practice
 
 ## JavaScript
+[2828.Check if a String Is an Acronym of Words](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/2828_CheckIfAStringIsAnAcronymOfWords.js)
+
 [1773.Count Items Matching a Rule](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/1773_CountItemsMatchingARule.js)
 
 [1678.Goal Parser Interpretation](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/1678_GoalParserInterpretation.js)
