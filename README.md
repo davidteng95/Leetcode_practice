@@ -1,6 +1,8 @@
 # Leetcode Practice
 
 ## JavaScript
+[1913. Maximum Product Difference Between Two Pairs](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/1913_MaximumProductDifferenceBetweenTwoPairs.js)
+
 [2828.Check if a String Is an Acronym of Words](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/2828_CheckIfAStringIsAnAcronymOfWords.js)
 
 [1773.Count Items Matching a Rule](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/1773_CountItemsMatchingARule.js)
