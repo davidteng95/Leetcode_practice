@@ -1,6 +1,8 @@
 # Leetcode Practice
 
 ## JavaScript
+[1295. Find Numbers with Even Number of Digits](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/1295_FindNumbersWithEvenNumberOfDigits.js)
+
 [2108. Find First Palindromic String in the Array](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/2108_FindFirstPalindromicStringInTheArray.js)
 
 [2778.Sum of Squares of Special Elements](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/2778.SumOfSquaresOfSpecialElements.js)
