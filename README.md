@@ -1,6 +1,8 @@
 # Leetcode Practice
 
 ## JavaScript
+[2108. Find First Palindromic String in the Array](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/2108_FindFirstPalindromicStringInTheArray.js)
+
 [2778.Sum of Squares of Special Elements](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/2778.SumOfSquaresOfSpecialElements.js)
 
 [2810.Faulty Keyboard](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/2810_FaultyKeyboard.js)
