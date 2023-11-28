@@ -1,6 +1,8 @@
 # Leetcode Practice
 
 ## JavaScript
+[2733.Neither Minimum nor Maximum](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/2733_NeitherMinimumNorMaximum.js)
+
 [1051.Height Checker](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/1051_HeightChecker.js)
 
 [977.Squares of a Sorted Array](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/977_SquaresOfASortedArray.js)
