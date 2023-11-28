@@ -1,6 +1,8 @@
 # Leetcode Practice
 
 ## JavaScript
+[1051.Height Checker](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/1051_HeightChecker.js)
+
 [977.Squares of a Sorted Array](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/977_SquaresOfASortedArray.js)
 
 [1295.Find Numbers with Even Number of Digits](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/1295_FindNumbersWithEvenNumberOfDigits.js)
