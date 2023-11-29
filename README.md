@@ -1,6 +1,8 @@
 # Leetcode Practice
 
 ## JavaScript
+[2089.Find Target Indices After Sorting Array](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/2089_FindTargetIndicesAfterSortingArray.js)
+
 [2733.Neither Minimum nor Maximum](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/2733_NeitherMinimumNorMaximum.js)
 
 [1051.Height Checker](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/1051_HeightChecker.js)
