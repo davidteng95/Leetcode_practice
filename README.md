@@ -1,6 +1,8 @@
 # Leetcode Practice
 
 ## JavaScript
+[2278.Percentage of Letter in String](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/2278_PercentageOfLetterInString.js)
+
 [1450.Number of Students Doing Homework at a Given Time](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/1450_NumberOfStudentsDoingHomeworkAtAGivenTime.js)
 
 [2037.Minimum Number of Moves to Seat Everyone](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/2037_MinimumNumberOfMovesToSeatEveryone.js)
