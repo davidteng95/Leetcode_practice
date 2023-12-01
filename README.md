@@ -1,6 +1,8 @@
 # Leetcode Practice
 
 ## JavaScript
+[412.Fizz Buzz](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/412_FizzBuzz.js)
+
 [2255.Count Prefixes of a Given String](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/2255_CountPrefixesOfAGivenString.js)
 
 [2278.Percentage of Letter in String](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/2278_PercentageOfLetterInString.js)
