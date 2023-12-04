@@ -1,6 +1,8 @@
 # Leetcode Practice
 
 ## JavaScript
+[2724.Sort By](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/2724_SortBy.js)
+
 [2529.Maximum Count of Positive Integer and Negative Integer](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/2529_MaximumCountOfPositiveIntegerAndNegativeInteger.js)
 
 [412.Fizz Buzz](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/412_FizzBuzz.js)
