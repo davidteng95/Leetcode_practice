@@ -1,9 +1,11 @@
 # Leetcode Practice
 
 ## JavaScript
+[1512.Number of Good Pairs](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/1512_NumberOfGoodPairs.js)
+
 [2619.Array Prototype Last](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/2619_ArrayPrototypeLast.js)
 
-[2185_Counting Words With a Given Prefix](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/2185_CountingWordsWithAGivenPrefix.js)
+[2185.Counting Words With a Given Prefix](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/2185_CountingWordsWithAGivenPrefix.js)
 
 [2724.Sort By](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/2724_SortBy.js)
 
