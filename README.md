@@ -1,6 +1,8 @@
 # Leetcode Practice
 
 ## JavaScript
+[1827.Minimum Operations to Make the Array Increasing](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/1827_MinimumOperationsToMakeTheArrayIncreasing.js)
+
 [2154.Keep Multipling Found Values by Two](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/2154_KeepMultiplyingFoundValuesByTwo.js)
 
 [1512.Number of Good Pairs](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/1512_NumberOfGoodPairs.js)
