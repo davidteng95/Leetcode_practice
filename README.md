@@ -1,6 +1,8 @@
 # Leetcode Practice
 
 ## JavaScript
+[1502.Can Make Arithmetic Progression From Sequence](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/1502_CanMakeArithmeticProgressionFromSequence.js)
+
 [1460.Make Two Arrays Equal by Reversing Subarrays](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/1460_MakeTwoArraysEqualByReversingSubarrays.js)
 
 [2716.Minimize String Length](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/2716_MinimizeStringLength.js)
