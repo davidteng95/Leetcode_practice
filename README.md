@@ -1,6 +1,8 @@
 # Leetcode Practice
 
 ## JavaScript
+[2578.Split With Minimum Sum](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/2578_SplitWithMinimumSum.js)
+
 [2124.Check if All A's Appears Before All B's](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/2124_CheckIfAllA'sAppearsBeforeAllB's.js)
 
 [1502.Can Make Arithmetic Progression From Sequence](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/1502_CanMakeArithmeticProgressionFromSequence.js)
