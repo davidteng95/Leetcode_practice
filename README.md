@@ -1,6 +1,8 @@
 # Leetcode Practice
 
 ## JavaScript
+[1688.Count of Matches in Tournament](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/1688_CountOfMatchesInTournament.js)
+
 [1470.Shuffle the Array](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/1470_ShuffleTheArray.js)
 
 [2942.Find Words Containing Character](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/2942_FindWordsContainingCharacter.js)
