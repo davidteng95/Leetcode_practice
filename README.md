@@ -1,6 +1,8 @@
 # Leetcode Practice
 
 ## JavaScript
+[2042.Check if Numbers Are Ascending in a Sentence](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/2042_CheckIfNumbersAreAscendingInASentence.js)
+
 [2000.Reverse Prefix of Word](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/2000_ReversePrefixOfWord.js)
 
 [2635.Apply Transform Over Each Element in Array](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/2635_ApplyTransformOverEachElementInArray.js)
