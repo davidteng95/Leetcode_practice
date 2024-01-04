@@ -1,6 +1,8 @@
 # Leetcode Practice
 
 ## JavaScript
+[922.Sort Array By Parity II](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/922_SortArrayByParityII.js)
+
 [2042.Check if Numbers Are Ascending in a Sentence](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/2042_CheckIfNumbersAreAscendingInASentence.js)
 
 [2000.Reverse Prefix of Word](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/2000_ReversePrefixOfWord.js)
