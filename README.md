@@ -1,6 +1,8 @@
 # Leetcode Practice
 
 ## JavaScript
+[2418.Sort the People](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/2418_SortThePeople.js)
+
 [1464.Maximum Product of Two Elements in an Array](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/1464_MaximumProductOfTwoElementsInAnArray.js)
 
 [1859.Sorting the Sentence](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/1859_SortingTheSentence.js)
