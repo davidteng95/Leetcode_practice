@@ -1,6 +1,8 @@
 # Leetcode Practice
 
 ## JavaScript
+[1528.Shuffle String](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/1528_ShuffleString.js)
+
 [1684.Count the Number of Consistent Strings](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/1684_CountTheNumberOfConsistentStrings.js)
 
 [2418.Sort the People](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/2418_SortThePeople.js)
