@@ -186,6 +186,8 @@
 [2667.Create Hello World Function](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/2667_CreateHelloWorldFunction.js)
 
 ## SQL
+[183.Customers Who Never Order](https://github.com/davidteng95/Leetcode_practice/blob/main/Database/183_CustomersWhoNeverOrder.sql)
+
 [1211.Queries Quality and Percentage](https://github.com/davidteng95/Leetcode_practice/blob/main/Database/1211_QueriesQualityAndPercentage.sql)
 
 [610.Triangle Judgement](https://github.com/davidteng95/Leetcode_practice/blob/main/Database/610_TriangleJudgement.sql)
