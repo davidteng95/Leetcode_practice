@@ -1,6 +1,8 @@
 # Leetcode Practice
 
 ## JavaScript
+[1025.Divisor Game](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/1025_DivisorGame.js)
+
 [2553.Separate the Digits in an Array](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/2553_SeparateTheDigitsInAnArray.js)
 
 [2960.Count Tested Devices After Test Operations](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/2960_CountTestedDevicesAfterTestOperations.js)
