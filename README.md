@@ -1,6 +1,8 @@
 # Leetcode Practice
 
 ## JavaScript
+[2727.Is Object Empty](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/2727_IsObjectEmpty.js)
+
 [682.Baseball Game](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/682_BaseballGame.js)
 
 [1025.Divisor Game](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/1025_DivisorGame.js)
