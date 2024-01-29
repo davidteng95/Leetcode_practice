@@ -1,8 +1,6 @@
 # Leetcode Practice
 
 ## JavaScript
-[1050.Actors and Directors Who Cooperated At Least Three Times](https://github.com/davidteng95/Leetcode_practice/blob/main/Database/1050_ActorsAndDirectorsWhoCooperatedAtLeastThreeTimes.sql)
-
 [1689.Partitioning Into Minimum Number Of Deci-Binary Numbers](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/1689.PartitioningIntoMinimumNumberOfDeci-BinaryNumbers.js)
 
 [2727.Is Object Empty](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/2727_IsObjectEmpty.js)
@@ -198,6 +196,8 @@
 [2667.Create Hello World Function](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/2667_CreateHelloWorldFunction.js)
 
 ## SQL
+[1050.Actors and Directors Who Cooperated At Least Three Times](https://github.com/davidteng95/Leetcode_practice/blob/main/Database/1050_ActorsAndDirectorsWhoCooperatedAtLeastThreeTimes.sql)
+
 [1251.Average Selling Price](https://github.com/davidteng95/Leetcode_practice/blob/main/Database/1251_AverageSellingPrice.sql)
 
 [183.Customers Who Never Order](https://github.com/davidteng95/Leetcode_practice/blob/main/Database/183_CustomersWhoNeverOrder.sql)
