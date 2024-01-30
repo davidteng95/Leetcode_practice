@@ -196,6 +196,8 @@
 [2667.Create Hello World Function](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/2667_CreateHelloWorldFunction.js)
 
 ## SQL
+[1141.User Activity for the Past 30 Days I](https://github.com/davidteng95/Leetcode_practice/blob/main/Database/1141_UserActivityForThePast30DaysI.sql)
+
 [1050.Actors and Directors Who Cooperated At Least Three Times](https://github.com/davidteng95/Leetcode_practice/blob/main/Database/1050_ActorsAndDirectorsWhoCooperatedAtLeastThreeTimes.sql)
 
 [1251.Average Selling Price](https://github.com/davidteng95/Leetcode_practice/blob/main/Database/1251_AverageSellingPrice.sql)
