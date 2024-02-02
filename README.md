@@ -196,6 +196,8 @@
 [2667.Create Hello World Function](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/2667_CreateHelloWorldFunction.js)
 
 ## SQL
+[1934.Confirmation Rate](https://github.com/davidteng95/Leetcode_practice/blob/main/Database/1934_ConfirmationRate.sql)
+
 [570.Managers with at Least 5 Direct Reports](https://github.com/davidteng95/Leetcode_practice/blob/main/Database/570_ManagersWithAtLeast5DirectReports.sql)
 
 [181.Employees Earning More Than Their Managers](https://github.com/davidteng95/Leetcode_practice/blob/main/Database/181_EmployeesEarningMoreThanTheirManagers.sql)
