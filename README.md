@@ -1,6 +1,8 @@
 # Leetcode Practice
 
 ## JavaScript
+[2704.To Be Or Not To Be](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/2704_ToBeOrNotToBe.js)
+
 [1689.Partitioning Into Minimum Number Of Deci-Binary Numbers](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/1689.PartitioningIntoMinimumNumberOfDeci-BinaryNumbers.js)
 
 [2727.Is Object Empty](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/2727_IsObjectEmpty.js)
