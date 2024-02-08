@@ -198,6 +198,8 @@
 [2667.Create Hello World Function](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/2667_CreateHelloWorldFunction.js)
 
 ## SQL
+[1789.Primary Department for Each Employee](https://github.com/davidteng95/Leetcode_practice/blob/main/Database/1789_PrimaryDepartmentForEachEmployee.sql)
+
 [1978.Employees Whose Manager Left the Company](https://github.com/davidteng95/Leetcode_practice/blob/main/Database/1978_EmployeesWhoseManagerLeftTheCompany.sql)
 
 [1731.The Number of Employees Which Report to Each Employee](https://github.com/davidteng95/Leetcode_practice/blob/main/Database/1731_TheNumberOfEmployeesWhichReportToEachEmployee.sql)
