@@ -1,6 +1,8 @@
 # Leetcode Practice
 
 ## JavaScript
+[2726.Calculator with Method Chaining](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/2726_CalculatorWithMethodChaining.js)
+
 [2704.To Be Or Not To Be](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/2704_ToBeOrNotToBe.js)
 
 [1689.Partitioning Into Minimum Number Of Deci-Binary Numbers](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/1689.PartitioningIntoMinimumNumberOfDeci-BinaryNumbers.js)
