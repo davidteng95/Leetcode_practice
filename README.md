@@ -200,6 +200,8 @@
 [2667.Create Hello World Function](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/2667_CreateHelloWorldFunction.js)
 
 ## SQL
+[1484.Group Sold Products By The Date](https://github.com/davidteng95/Leetcode_practice/blob/main/Database/1484_GroupSoldProductsByTheDate.sql)
+
 [1517.Find Users With Valid E-Mails](https://github.com/davidteng95/Leetcode_practice/blob/main/Database/1517_FindUsersWithValidE-Mails.sql)
 
 [1661.Average Time of Process per Machine](https://github.com/davidteng95/Leetcode_practice/blob/main/Database/1661_AverageTimeOfProcessPerMachine.sql)
