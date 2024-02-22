@@ -1,6 +1,8 @@
 # Leetcode Practice
 
 ## JavaScript
+[392.Is Subsequence](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/392_IsSubsequence.js)
+
 [26.Remove Duplicates from Sorted Array](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/26_RemoveDuplicateFromSortedArray.js)
 
 [2726.Calculator with Method Chaining](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/2726_CalculatorWithMethodChaining.js)
