@@ -1,6 +1,8 @@
 # Leetcode Practice
 
 ## JavaScript
+[28.Find the Index of the First Occurence in a String](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/28_FindTheIndexOfTheFirstOccurrenceInAString.js)
+
 [392.Is Subsequence](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/392_IsSubsequence.js)
 
 [26.Remove Duplicates from Sorted Array](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/26_RemoveDuplicateFromSortedArray.js)
