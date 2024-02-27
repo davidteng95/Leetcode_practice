@@ -1,6 +1,8 @@
 # Leetcode Practice
 
 ## JavaScript
+[1.Two Sum](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/1_TwoSum.js)
+
 [27.Remove Element](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/27_RemoveElement.js)
 
 [28.Find the Index of the First Occurence in a String](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/28_FindTheIndexOfTheFirstOccurrenceInAString.js)
