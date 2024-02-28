@@ -1,6 +1,8 @@
 # Leetcode Practice
 
 ## JavaScript
+[2723.Add Two Promises](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/2723.AddTwoPromises.js)
+
 [1.Two Sum](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/1_TwoSum.js)
 
 [27.Remove Element](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/27_RemoveElement.js)
