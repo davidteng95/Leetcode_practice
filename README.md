@@ -1,6 +1,8 @@
 # Leetcode Practice
 
 ## JavaScript
+[2974.Minimum Number Game](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/2974.MinimumNumberGame.js)
+
 [1389.Create Target Array in the Given Order](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/1389_CreateTargetArrayInTheGivenOrder.js)
 
 [1637.Widest Vertical Area Between Two Points Containing No Points](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/1637_WidestVerticalAreaBetweenTwoPointsContainingNoPoints.js)
