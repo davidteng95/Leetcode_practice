@@ -1,6 +1,8 @@
 # Leetcode Practice
 
 ## JavaScript
+[1486.XOR Operation in an Array](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/1486_XOROperationInAnArray.js)
+
 [2974.Minimum Number Game](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/2974.MinimumNumberGame.js)
 
 [1389.Create Target Array in the Given Order](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/1389_CreateTargetArrayInTheGivenOrder.js)
