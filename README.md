@@ -1,6 +1,8 @@
 # Leetcode Practice
 
 ## JavaScript
+[2545.Sort The Students by Their Kth Score](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/2545_SortTheStudentsByTheirKthScore.js)
+
 [1486.XOR Operation in an Array](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/1486_XOROperationInAnArray.js)
 
 [2974.Minimum Number Game](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/2974.MinimumNumberGame.js)
