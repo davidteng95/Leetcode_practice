@@ -224,6 +224,8 @@
 [2667.Create Hello World Function](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/2667_CreateHelloWorldFunction.js)
 
 ## SQL
+[1193.Monthly Transactions I](https://github.com/davidteng95/Leetcode_practice/blob/main/Database/1193_MonthlyTransactionsI.sql)
+
 [1045.Customers Who Bought All Products](https://github.com/davidteng95/Leetcode_practice/blob/main/Database/1045_CustomersWhoBoughtAllProducts.sql)
 
 [602.Friend Requests II: Who Has the Most Friends](https://github.com/davidteng95/Leetcode_practice/blob/main/Database/602_FriendRequestsII%3AWhoHasTheMostFriends.sql)
