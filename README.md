@@ -1,6 +1,8 @@
 # Leetcode Practice
 
 ## JavaScript
+[2006.Count Number of Pairs With Absolute Difference K](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/2006_CountNumberOfPairsWithAbsoluteDifferenceK.js)
+
 [2695.Array Wrapper](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/2695_ArrayWrapper.js)
 
 [2545.Sort The Students by Their Kth Score](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/2545_SortTheStudentsByTheirKthScore.js)
