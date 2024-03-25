@@ -1,6 +1,8 @@
 # Leetcode Practice
 
 ## JavaScript
+[1791.Find Center of Star Graph](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/1791_FindCenterOfStarGraph.js)
+
 [2006.Count Number of Pairs With Absolute Difference K](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/2006_CountNumberOfPairsWithAbsoluteDifferenceK.js)
 
 [2695.Array Wrapper](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/2695_ArrayWrapper.js)
