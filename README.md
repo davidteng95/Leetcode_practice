@@ -1,6 +1,8 @@
 # Leetcode Practice
 
 ## JavaScript
+[2236.Root Equals Sum of Children](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/2236_RootEqualsSumOfChildren.js)
+
 [1791.Find Center of Star Graph](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/1791_FindCenterOfStarGraph.js)
 
 [2006.Count Number of Pairs With Absolute Difference K](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/2006_CountNumberOfPairsWithAbsoluteDifferenceK.js)
