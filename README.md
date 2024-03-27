@@ -1,6 +1,8 @@
 # Leetcode Practice
 
 ## JavaScript
+[3065.Minimun Operations to Exceed Threshold Value I](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/3065_MinimumOperationsToExceedThresholdValueI.js)
+
 [2236.Root Equals Sum of Children](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/2236_RootEqualsSumOfChildren.js)
 
 [1791.Find Center of Star Graph](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/1791_FindCenterOfStarGraph.js)
