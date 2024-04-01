@@ -1,6 +1,8 @@
 # Leetcode Practice
 
 ## JavaScript
+[2629.Function Composition](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/2629_FunctionComposition.js)
+
 [2367.Number of Arithmetic Triplets](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/2367_NumberOfArithmeticTriplets.js)
 
 [3065.Minimun Operations to Exceed Threshold Value I](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/3065_MinimumOperationsToExceedThresholdValueI.js)
