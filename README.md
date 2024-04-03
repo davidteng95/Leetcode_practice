@@ -1,6 +1,8 @@
 # Leetcode Practice
 
 ## JavaScript
+[2626.Array Reduce Transformation](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/2626_ArrayReduceTransformation.js)
+
 [35.Search Insert Position](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/35_SearchInsertPosition.js)
 
 [2629.Function Composition](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/2629_FunctionComposition.js)
