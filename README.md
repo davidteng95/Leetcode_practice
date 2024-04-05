@@ -1,6 +1,8 @@
 # Leetcode Practice
 
 ## JavaScript
+[2677.Chunk Array](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/2677_ChunkArray.js)
+
 [2634.Filter Elements from Array](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/2634_FilterElementsFromArray.js)
 
 [2626.Array Reduce Transformation](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/2626_ArrayReduceTransformation.js)
