@@ -1,6 +1,8 @@
 # Leetcode Practice
 
 ## JavaScript
+[1313.Decompress Run-Length Encoded List](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/1313_DecompressRun-LengthEncodedList.js)
+
 [2677.Chunk Array](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/2677_ChunkArray.js)
 
 [2634.Filter Elements from Array](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/2634_FilterElementsFromArray.js)
