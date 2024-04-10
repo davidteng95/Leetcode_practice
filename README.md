@@ -1,6 +1,8 @@
 # Leetcode Practice
 
 ## JavaScript
+[2864.Maximum Odd Binary Number](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/2864_MaximumOddBinaryNumber.js)
+
 [1313.Decompress Run-Length Encoded List](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/1313_DecompressRun-LengthEncodedList.js)
 
 [2677.Chunk Array](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/2677_ChunkArray.js)
