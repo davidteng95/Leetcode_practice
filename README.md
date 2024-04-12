@@ -250,6 +250,8 @@
 [2667.Create Hello World Function](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/2667_CreateHelloWorldFunction.js)
 
 ## SQL
+[627.Swap Salary](https://github.com/davidteng95/Leetcode_practice/blob/main/Database/627_SwapSalary.sql)
+
 [1795.Rearrange Products Table](https://github.com/davidteng95/Leetcode_practice/blob/main/Database/1795_RearrangeProductsTable.sql)
 
 [1174.Immediate Food Delivery II](https://github.com/davidteng95/Leetcode_practice/blob/main/Database/1174_ImmediateFoodDeliveryII.sql)
