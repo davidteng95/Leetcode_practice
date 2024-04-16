@@ -1,6 +1,8 @@
 # Leetcode Practice
 
 ## JavaScript
+[832.Flipping an Image](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/832_FlippingAnImage.js)
+
 [1832.Check if the Sentence Is Pangram](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/1832_CheckIfTheSentenceIsPangram.js)
 
 [2315.Count Asterisks](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/2315_CountAsterisks.js)
