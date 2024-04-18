@@ -1,6 +1,8 @@
 # Leetcode Practice
 
 ## JavaScript
+[509.Fibonacci Number](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/509_FibonacciNumber.js)
+
 [832.Flipping an Image](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/832_FlippingAnImage.js)
 
 [1832.Check if the Sentence Is Pangram](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/1832_CheckIfTheSentenceIsPangram.js)
