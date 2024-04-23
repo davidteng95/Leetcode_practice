@@ -1,6 +1,8 @@
 # Leetcode Practice
 
 ## JavaScript
+[169.Majority Element](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/169_MajorityElement.js)
+
 [136.Single Number](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/136_SingleNumber.js)
 
 [551.Student Attendance Record I](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/551_StudentAttendanceRecordI.js)
