@@ -1,6 +1,8 @@
 # Leetcode Practice
 
 ## JavaScript
+[21.Merge Two Sorted Lists](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/21_MergeTwoSortedLists.js)
+
 [704.Binary Search](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/704_BinarySearch.js)
 
 [169.Majority Element](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/169_MajorityElement.js)
