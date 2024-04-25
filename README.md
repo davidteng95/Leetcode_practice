@@ -1,6 +1,8 @@
 # Leetcode Practice
 
 ## JavaScript
+[1603.Design Parking System](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/1603_DesignParkingSystem.js)
+
 [21.Merge Two Sorted Lists](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/21_MergeTwoSortedLists.js)
 
 [704.Binary Search](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/704_BinarySearch.js)
