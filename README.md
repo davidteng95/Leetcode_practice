@@ -1,6 +1,8 @@
 # Leetcode Practice
 
 ## JavaScript
+[1534.Count Good Triplets](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/1534_CountGoodTriplets.js)
+
 [1603.Design Parking System](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/1603_DesignParkingSystem.js)
 
 [21.Merge Two Sorted Lists](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/21_MergeTwoSortedLists.js)
