@@ -1,6 +1,8 @@
 # Leetcode Practice
 
 ## JavaScript
+[3019.Number of Changing Keys](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/3019_NumberOfChangingKeys.js)
+
 [1967.Number of Strings That Appear as Substrings in Word](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/1967_NumberOfStringsThatAppearAsSubstringsInWord.js)
 
 [1534.Count Good Triplets](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/1534_CountGoodTriplets.js)
