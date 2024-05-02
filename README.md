@@ -1,6 +1,8 @@
 # Leetcode Practice
 
 ## JavaScript
+[53.Maximum Subarray](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/53_MaximumSubarray.js)
+
 [3099.Harshad Number](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/3099_HarshadNumber.js)
 
 [3019.Number of Changing Keys](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/3019_NumberOfChangingKeys.js)
