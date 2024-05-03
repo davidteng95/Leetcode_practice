@@ -1,6 +1,8 @@
 # Leetcode Practice
 
 ## JavaScript
+[3131.Find the Integer Added to Array I](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/3131_FindTheIntegerAddedToArrayI.js)
+
 [53.Maximum Subarray](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/53_MaximumSubarray.js)
 
 [3099.Harshad Number](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/3099_HarshadNumber.js)
