@@ -1,6 +1,8 @@
 # Leetcode Practice
 
 ## JavaScript
+[1716.Calculate Money in Leetcode Bank](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/1716_CalculateMoneyInLeetcodeBank.js)
+
 [561.Array Partition](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/561_ArrayPartition.js)
 
 [2176.Count Equal and Divisible Pairs in an Array](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/2176.CountEqualAndDivisiblePairsInAnArray.js)
