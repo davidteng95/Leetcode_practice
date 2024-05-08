@@ -1,6 +1,8 @@
 # Leetcode Practice
 
 ## JavaScript
+[561.Array Partition](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/561_ArrayPartition.js)
+
 [2176.Count Equal and Divisible Pairs in an Array](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/2176.CountEqualAndDivisiblePairsInAnArray.js)
 
 [3131.Find the Integer Added to Array I](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/3131_FindTheIntegerAddedToArrayI.js)
