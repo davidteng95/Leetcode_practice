@@ -1,6 +1,8 @@
 # Leetcode Practice
 
 ## JavaScript
+[1725.Number Of Rectangles That Can Form The Largest Square](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/1725_NumberOfRectanglesThatCanFormTheLargestSquare.js)
+
 [1716.Calculate Money in Leetcode Bank](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/1716_CalculateMoneyInLeetcodeBank.js)
 
 [561.Array Partition](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/561_ArrayPartition.js)
