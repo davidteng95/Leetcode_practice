@@ -1,6 +1,8 @@
 # Leetcode Practice
 
 ## JavaScript
+[1704.Determine if String Halves Are Alike](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/1704_DetermineIfStringHavlesAreAlike.js)
+
 [1725.Number Of Rectangles That Can Form The Largest Square](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/1725_NumberOfRectanglesThatCanFormTheLargestSquare.js)
 
 [1716.Calculate Money in Leetcode Bank](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/1716_CalculateMoneyInLeetcodeBank.js)
