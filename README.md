@@ -1,6 +1,8 @@
 # Leetcode Practice
 
 ## JavaScript
+[1332.Remove Palindromic Subsequences](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/1332_RemovePalindromicSubsequences.js)
+
 [1475.Final Prices With a Special Discount in a Shop](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/1475_FinalPricesWithASpecialDiscountInAShop.js)
 
 [1704.Determine if String Halves Are Alike](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/1704_DetermineIfStringHavlesAreAlike.js)
