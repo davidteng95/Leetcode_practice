@@ -1,6 +1,8 @@
 # Leetcode Practice
 
 ## JavaScript
+[1304.Find N Unique Integers Sum up to Zero](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/1304_FindNUniqueIntegersSumUpTpZero.js)
+
 [1332.Remove Palindromic Subsequences](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/1332_RemovePalindromicSubsequences.js)
 
 [1475.Final Prices With a Special Discount in a Shop](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/1475_FinalPricesWithASpecialDiscountInAShop.js)
