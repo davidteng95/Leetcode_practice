@@ -1,6 +1,8 @@
 # Leetcode Practice
 
 ## JavaScript
+[2341.Maximum Number of Pairs in Array](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/2341_MaximumNumberOfPairsInArray.js)
+
 [1304.Find N Unique Integers Sum up to Zero](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/1304_FindNUniqueIntegersSumUpTpZero.js)
 
 [1332.Remove Palindromic Subsequences](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/1332_RemovePalindromicSubsequences.js)
