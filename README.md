@@ -1,6 +1,8 @@
 # Leetcode Practice
 
 ## JavaScript
+[2032.Two Out of Three](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/2032_TwoOutOfThree.js)
+
 [2643.Row With Maximum Ones](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/2643_RowWithMaximumOnes.js)
 
 [2341.Maximum Number of Pairs in Array](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/2341_MaximumNumberOfPairsInArray.js)
