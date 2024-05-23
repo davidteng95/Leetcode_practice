@@ -1,6 +1,8 @@
 # Leetcode Practice
 
 ## JavaScript
+[905.Sort Array By Parity](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/905_SortArrayByParity.js)
+
 [657.Robot Return to Origin](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/657_RobotReturnToOrigin.js)
 
 [2032.Two Out of Three](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/2032_TwoOutOfThree.js)
