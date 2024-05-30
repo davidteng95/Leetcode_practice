@@ -1,6 +1,8 @@
 # Leetcode Practice
 
 ## JavaScript
+[1935.Maximum Number of Words You Can Type](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/1935_MaximumNumberOfWordsYouCanType.js)
+
 [2788.Split Strings by Separator](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/2788_SplitStringsBySeparator.js)
 
 [2169.Count Operations to Obtain Zero](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/2169_CountOperationsToObtainZero.js)
