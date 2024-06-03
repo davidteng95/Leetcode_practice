@@ -1,6 +1,8 @@
 # Leetcode Practice
 
 ## JavaScript
+[3028.Ant on the Boundary](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/3028_AntOnTheBoundary.js)
+
 [2586.Count the Number of Vowel Strings in Range](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/2586_CountTheNumberOfVowelStringsInRange.js)
 
 [1935.Maximum Number of Words You Can Type](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/1935_MaximumNumberOfWordsYouCanType.js)
