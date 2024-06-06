@@ -1,6 +1,8 @@
 # Leetcode Practice
 
 ## JavaScript
+[2923.Find Champion I](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/2923_FindChampionI.js)
+
 [2570.Merge Two 2D Arrays by Summing Values](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/2570_MergeTwo2DArraysBySummingValues.js)
 
 [2843.Count Symmetric Integers](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/2843_CountSymmetricIntegers.js)
