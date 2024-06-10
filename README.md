@@ -1,6 +1,8 @@
 # Leetcode Practice
 
 ## JavaScript
+[1876.Substrings of Size Three with Distinct Characters](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/1876_SubstringsOfSizeThreeWithDistinctCharacters.js)
+
 [2351.First Letter to Appear Twice](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/2351_FirstLetterToAppearTwice.js)
 
 [2923.Find Champion I](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/2923_FindChampionI.js)
