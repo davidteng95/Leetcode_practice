@@ -1,6 +1,8 @@
 # Leetcode Practice
 
 ## JavaScript
+[1403.Minimum Subsequence in Non-Increasing Order](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/1403_MinimumSubsequenceInNon-IncreasingOrder.js)
+
 [2057.Smallest Index With Equal Value](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/2057_SmallestIndexWithEqualValue.js)
 
 [1876.Substrings of Size Three with Distinct Characters](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/1876_SubstringsOfSizeThreeWithDistinctCharacters.js)
