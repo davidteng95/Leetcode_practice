@@ -1,6 +1,8 @@
 # Leetcode Practice
 
 ## JavaScript
+[1710.Maximum Units on a Truck](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/1710_MaximumUnitsOnATruck.js)
+
 [2206.Divide Array Into Equal Pairs](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/2206_DivideArrayIntoEqualPairs.js)
 
 [1403.Minimum Subsequence in Non-Increasing Order](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/1403_MinimumSubsequenceInNon-IncreasingOrder.js)
