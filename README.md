@@ -1,6 +1,8 @@
 # Leetcode Practice
 
 ## JavaScript
+[2496.Maximum Value of a String in an Array](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/2496_MaximumValueOfAStringInAnArray.js)
+
 [1700.Number of Students Unable to Eat Lunch](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/1700_NumberOfStudentsUnableToEatLunch.js)
 
 [1710.Maximum Units on a Truck](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/1710_MaximumUnitsOnATruck.js)
