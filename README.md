@@ -1,6 +1,8 @@
 # Leetcode Practice
 
 ## JavaScript
+[1700.Number of Students Unable to Eat Lunch](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/1700_NumberOfStudentsUnableToEatLunch.js)
+
 [1710.Maximum Units on a Truck](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/1710_MaximumUnitsOnATruck.js)
 
 [2206.Divide Array Into Equal Pairs](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/2206_DivideArrayIntoEqualPairs.js)
