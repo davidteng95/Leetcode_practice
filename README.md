@@ -1,6 +1,8 @@
 # Leetcode Practice
 
 ## JavaScript
+[3069.Distribute Elements Into Two Arrays I](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/3069_DistributeElementsIntoTwoArraysI.js)
+
 [2496.Maximum Value of a String in an Array](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/2496_MaximumValueOfAStringInAnArray.js)
 
 [1700.Number of Students Unable to Eat Lunch](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/1700_NumberOfStudentsUnableToEatLunch.js)
