@@ -1,6 +1,8 @@
 # Leetcode Practice
 
 ## JavaScript
+[2357.Make Array Zero by Subtracting Equal Amounts](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/2357_MakeArrayZeroBySubtractingEqualAmounts.js)
+
 [3069.Distribute Elements Into Two Arrays I](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/3069_DistributeElementsIntoTwoArraysI.js)
 
 [2496.Maximum Value of a String in an Array](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/2496_MaximumValueOfAStringInAnArray.js)
