@@ -1,6 +1,8 @@
 # Leetcode Practice
 
 ## JavaScript
+[1742.Maximum Number of Balls in a Box](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/1742_MaximumNumberOfBallsInABox.js)
+
 [2357.Make Array Zero by Subtracting Equal Amounts](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/2357_MakeArrayZeroBySubtractingEqualAmounts.js)
 
 [3069.Distribute Elements Into Two Arrays I](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/3069_DistributeElementsIntoTwoArraysI.js)
