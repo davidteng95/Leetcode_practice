@@ -1,6 +1,8 @@
 # Leetcode Practice
 
 ## JavaScript
+[496.Next Greater Element I](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/496_NextGreaterElementI.js)
+
 [2283.Check if Number Has Equal Digit Count and Digit Value](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/2283_CheckIfNumberHasEqualDigitCountAndDigitValue.js)
 
 [1742.Maximum Number of Balls in a Box](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/1742_MaximumNumberOfBallsInABox.js)
