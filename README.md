@@ -1,6 +1,8 @@
 # Leetcode Practice
 
 ## JavaScript
+[2283.Check if Number Has Equal Digit Count and Digit Value](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/2283_CheckIfNumberHasEqualDigitCountAndDigitValue.js)
+
 [1742.Maximum Number of Balls in a Box](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/1742_MaximumNumberOfBallsInABox.js)
 
 [2357.Make Array Zero by Subtracting Equal Amounts](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/2357_MakeArrayZeroBySubtractingEqualAmounts.js)
