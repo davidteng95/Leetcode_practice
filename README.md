@@ -1,6 +1,8 @@
 # Leetcode Practice
 
 ## JavaScript
+[2475.Number of Unequal Triplets in Array](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/2475_NumberOfUnequalTripletsInArray.js)
+
 [1636.Sort Array by Increasing Frequency](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/1636_SortArrayByIncreasingFrequency.js)
 
 [496.Next Greater Element I](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/496_NextGreaterElementI.js)
