@@ -1,6 +1,8 @@
 # Leetcode Practice
 
 ## JavaScript
+[1337.The K Weakest Rows in a Matrix](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/1337_TheKWeakestRowsInAMatrix.js)
+
 [2475.Number of Unequal Triplets in Array](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/2475_NumberOfUnequalTripletsInArray.js)
 
 [1636.Sort Array by Increasing Frequency](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/1636_SortArrayByIncreasingFrequency.js)
