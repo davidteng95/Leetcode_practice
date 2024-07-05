@@ -1,6 +1,8 @@
 # Leetcode Practice
 
 ## JavaScript
+[1217.Minimum Cost to Move Chips to The Same Position](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/1217_MinimumCostToMoveChipsToTheSamePosition.js)
+
 [867.Transpose Matrix](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/867_TransposeMatrix.js)
 
 [1337.The K Weakest Rows in a Matrix](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/1337_TheKWeakestRowsInAMatrix.js)
