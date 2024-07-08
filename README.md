@@ -1,6 +1,8 @@
 # Leetcode Practice
 
 ## JavaScript
+[191.Number of 1 Bits](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/191_NumberOf1Bits.js)
+
 [1217.Minimum Cost to Move Chips to The Same Position](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/1217_MinimumCostToMoveChipsToTheSamePosition.js)
 
 [867.Transpose Matrix](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/867_TransposeMatrix.js)
