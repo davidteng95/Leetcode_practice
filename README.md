@@ -1,6 +1,8 @@
 # Leetcode Practice
 
 ## JavaScript
+[506.Relative Ranks](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/506_RelativeRanks.js)
+
 [191.Number of 1 Bits](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/191_NumberOf1Bits.js)
 
 [1217.Minimum Cost to Move Chips to The Same Position](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/1217_MinimumCostToMoveChipsToTheSamePosition.js)
