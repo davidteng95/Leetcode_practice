@@ -1,6 +1,8 @@
 # Leetcode Practice
 
 ## JavaScript
+[1518.Water Bottles](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/1518_WaterBottles.js)
+
 [2085.Count Common Words With One Occurrence](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/2085_CountCommonWordsWithOneOccurrence.js)
 
 [506.Relative Ranks](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/506_RelativeRanks.js)
