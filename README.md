@@ -1,6 +1,8 @@
 # Leetcode Practice
 
 ## JavaScript
+[2073.Time Needed to Buy Tickets](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/2073_TimeNeededToBuyTickets.js)
+
 [1299.Replace Elements with Greatest Element on Right Side](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/1299_ReplaceElementsWithGreatestElementOnRightSide.js)
 
 [1518.Water Bottles](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/1518_WaterBottles.js)
