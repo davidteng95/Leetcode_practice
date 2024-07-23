@@ -1,6 +1,8 @@
 # Leetcode Practice
 
 ## JavaScript
+[2696.Minimum String Length After Removing Substrings](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/2696_MinimumStringLengthAfterRemovingSubstrings.js)
+
 [2562.Find the Array Concatenation Value](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/2562_FindTheArrayConcatenationValue.js)
 
 [1047.Remove All Adjacent Duplicates In String](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/1047_RemoveAllAdjacentDuplicatesOnString.js)
