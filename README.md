@@ -1,6 +1,8 @@
 # Leetcode Practice
 
 ## JavaScript
+[2706.Buy Two Chocolates](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/2706_BuyTwoChocolates.js)
+
 [2696.Minimum String Length After Removing Substrings](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/2696_MinimumStringLengthAfterRemovingSubstrings.js)
 
 [2562.Find the Array Concatenation Value](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/2562_FindTheArrayConcatenationValue.js)
