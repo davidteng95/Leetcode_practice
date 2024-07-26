@@ -1,6 +1,8 @@
 # Leetcode Practice
 
 ## JavaScript
+[1550.Three Consecutive Odds](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/1550_ThreeConsecutiveOdds.js)
+
 [1624.Largest Substring Between Two Equal Characters](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/1624_LargestSubstringBetweenTwoEqualCharacters.js)
 
 [2706.Buy Two Chocolates](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/2706_BuyTwoChocolates.js)
