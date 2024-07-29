@@ -1,6 +1,8 @@
 # Leetcode Practice
 
 ## JavaScript
+[1619.Mean of Array After Removing Some Elements](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/1619_MeanOfArrayAfterRemovingSomeElements.js)
+
 [1550.Three Consecutive Odds](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/1550_ThreeConsecutiveOdds.js)
 
 [1624.Largest Substring Between Two Equal Characters](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/1624_LargestSubstringBetweenTwoEqualCharacters.js)
