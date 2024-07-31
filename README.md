@@ -1,6 +1,8 @@
 # Leetcode Practice
 
 ## JavaScript
+[2264.Largest 3-Same-Digit Number in String](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/2264_Largest3-Same-DigitNumberInString.js)
+
 [1385.Find the Distance Value Between Two Arrays](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/1385_FindTheDistanceValueBetweenTwoArrays.js)
 
 [1619.Mean of Array After Removing Some Elements](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/1619_MeanOfArrayAfterRemovingSomeElements.js)
