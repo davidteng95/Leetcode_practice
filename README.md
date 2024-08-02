@@ -1,6 +1,8 @@
 # Leetcode Practice
 
 ## JavaScript
+[575.Distribute Candies](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/575_DistributeCandies.js)
+
 [2544.Alternating Digit Sum](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/2544_AlternatingDigitSum.js)
 
 [2264.Largest 3-Same-Digit Number in String](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/2264_Largest3-Same-DigitNumberInString.js)
