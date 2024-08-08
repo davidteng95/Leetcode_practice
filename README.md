@@ -1,6 +1,8 @@
 # Leetcode Practice
 
 ## JavaScript
+[824.Goat Latin](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/824_GoatLatin.js)
+
 [3033.Modify the Matrix](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/3033_ModifyTheMatrix.js)
 
 [575.Distribute Candies](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/575_DistributeCandies.js)
