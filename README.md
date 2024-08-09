@@ -1,6 +1,8 @@
 # Leetcode Practice
 
 ## JavaScript
+[1925.Count Square Sum Triples](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/1925_CountSquareSumTriples.js)
+
 [1544.Make The String Great](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/1544_MakeTheStringGreat.js)
 
 [824.Goat Latin](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/824_GoatLatin.js)
