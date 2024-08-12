@@ -1,6 +1,8 @@
 # Leetcode Practice
 
 ## JavaScript
+[2460.Apply Operations to an Array](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/2460_ApplyOperationsToAnArray.js)
+
 [1925.Count Square Sum Triples](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/1925_CountSquareSumTriples.js)
 
 [1544.Make The String Great](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/1544_MakeTheStringGreat.js)
