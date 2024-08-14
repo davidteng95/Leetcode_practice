@@ -1,6 +1,8 @@
 # Leetcode Practice
 
 ## JavaScript
+[268.Missing Number](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/268_MissingNumber.js)
+
 [2460.Apply Operations to an Array](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/2460_ApplyOperationsToAnArray.js)
 
 [1925.Count Square Sum Triples](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/1925_CountSquareSumTriples.js)
