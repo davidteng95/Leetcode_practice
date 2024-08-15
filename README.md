@@ -1,6 +1,8 @@
 # Leetcode Practice
 
 ## JavaScript
+[1394.Find Lucky Integer in an Array](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/1394_FindLuckyIntegerInAnArray.js)
+
 [268.Missing Number](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/268_MissingNumber.js)
 
 [2460.Apply Operations to an Array](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/2460_ApplyOperationsToAnArray.js)
