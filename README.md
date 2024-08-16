@@ -1,6 +1,8 @@
 # Leetcode Practice
 
 ## JavaScript
+[1897.Redistribute Characters to Make All Strings Equal](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/1897_RedistributeCharactersToMakeAllStringsEqual.js)
+
 [1394.Find Lucky Integer in an Array](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/1394_FindLuckyIntegerInAnArray.js)
 
 [268.Missing Number](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/268_MissingNumber.js)
