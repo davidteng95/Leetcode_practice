@@ -1,6 +1,8 @@
 # Leetcode Practice
 
 ## JavaScript
+[2558.Take Gifts From the Richest Pile](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/2558_TakeGiftsFromTheRichestPile.js)
+
 [3074.Apple Redistribution into Boxes](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/3074_AppleRedistributionIntoBoxes.js)
 
 [1897.Redistribute Characters to Make All Strings Equal](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/1897_RedistributeCharactersToMakeAllStringsEqual.js)
