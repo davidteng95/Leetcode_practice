@@ -1,6 +1,8 @@
 # Leetcode Practice
 
 ## JavaScript
+[1608.Special Arry With X Elements Greater Than or Equal X](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/1608_SpecialArrayWithXElementsGreaterThanOrEqualX.js)
+
 [2180.Count Integers With Even Digit Sum](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/2180_CountIntegersWithEvenDigitSum.js)
 
 [258.Add Digits](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/258_AddDigits.js)
