@@ -1,6 +1,8 @@
 # Leetcode Practice
 
 ## JavaScript
+[2138.Divide a String Into Groups of Size k](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/2138_DivideAStringIntoGroupsOfSizeK.js)
+
 [2243.Calculate Digit Sum of a String](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/2243_CalculateDigitSumOfAString.js)
 
 [1608.Special Arry With X Elements Greater Than or Equal X](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/1608_SpecialArrayWithXElementsGreaterThanOrEqualX.js)
