@@ -1,6 +1,8 @@
 # Leetcode Practice
 
 ## JavaScript
+[2200.Find All K-Distant Indices in an Array](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/2200_FindAllKDistantIndicesInAnArray.js)
+
 [2899.Last Visited Integers](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/2899_LastVisitedIntegers.js)
 
 [3083.Existence of a Substring in a String and Its Reverse](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/3083_ExistenceOfASubstringInAStringAndItsReverse.js)
