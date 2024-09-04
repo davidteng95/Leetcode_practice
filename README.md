@@ -1,6 +1,8 @@
 # Leetcode Practice
 
 ## JavaScript
+[1046.Last Stone Weight](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/1046_LastStoneWeight.js)
+
 [2078.Two Furthest Houses With Different Colors](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/2078_TwoFurthestHousesWithDifferentColors.js)
 
 [2200.Find All K-Distant Indices in an Array](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/2200_FindAllKDistantIndicesInAnArray.js)
