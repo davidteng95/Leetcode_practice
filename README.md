@@ -1,6 +1,8 @@
 # Leetcode Practice
 
 ## JavaScript
+[884.Uncommon Words from Two Sentences](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/884_UncommonWordsFromTwoSentences.js)
+
 [1046.Last Stone Weight](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/1046_LastStoneWeight.js)
 
 [2078.Two Furthest Houses With Different Colors](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/2078_TwoFurthestHousesWithDifferentColors.js)
