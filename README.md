@@ -1,6 +1,8 @@
 # Leetcode Practice
 
 ## JavaScript
+[929.Unique Email Addresses](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/929_UniqueEmailAdresses.js)
+
 [2639.Find the Width of Columns of a Grid](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/2639_FindTheWidthOfColumnsOfAGrid.js)
 
 [884.Uncommon Words from Two Sentences](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/884_UncommonWordsFromTwoSentences.js)
