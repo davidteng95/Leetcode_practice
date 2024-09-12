@@ -1,6 +1,8 @@
 # Leetcode Practice
 
 ## JavaScript
+[2248.Intersection of Multiple Arrays](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/2248_IntersectionOfMultipleArrays.js)
+
 [1160.Find Words That Can Be Formed by Characters](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/1160_FindWordsThatCanBeFormedByCharacters.js)
 
 [929.Unique Email Addresses](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/929_UniqueEmailAdresses.js)
