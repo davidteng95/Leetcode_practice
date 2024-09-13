@@ -1,6 +1,8 @@
 # Leetcode Practice
 
 ## JavaScript
+[3010.Divide an Array Into Subarrays With Minimum Cost I](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/3010_DivideAnArrayIntoSubarraysWithMinimumCostI.js)
+
 [2248.Intersection of Multiple Arrays](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/2248_IntersectionOfMultipleArrays.js)
 
 [1160.Find Words That Can Be Formed by Characters](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/1160_FindWordsThatCanBeFormedByCharacters.js)
