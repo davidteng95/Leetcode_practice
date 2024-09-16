@@ -1,6 +1,8 @@
 # Leetcode Practice
 
 ## JavaScript
+[1399.Count Largest Group](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/1399_CountLargestGroup.js)
+
 [3010.Divide an Array Into Subarrays With Minimum Cost I](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/3010_DivideAnArrayIntoSubarraysWithMinimumCostI.js)
 
 [2248.Intersection of Multiple Arrays](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/2248_IntersectionOfMultipleArrays.js)
