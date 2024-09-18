@@ -1,6 +1,8 @@
 # Leetcode Practice
 
 ## JavaScript
+[2908.Minimum Sum of Mountain Triplets I](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/2908_MinimumSumOfMountainTripletsI.js)
+
 [1399.Count Largest Group](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/1399_CountLargestGroup.js)
 
 [3010.Divide an Array Into Subarrays With Minimum Cost I](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/3010_DivideAnArrayIntoSubarraysWithMinimumCostI.js)
