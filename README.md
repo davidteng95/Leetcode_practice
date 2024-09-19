@@ -1,6 +1,8 @@
 # Leetcode Practice
 
 ## JavaScript
+[2303.Calculate Amount Paid in Taxes](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/2303_CalculateAmountPaidInTaxes.js)
+
 [2908.Minimum Sum of Mountain Triplets I](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/2908_MinimumSumOfMountainTripletsI.js)
 
 [1399.Count Largest Group](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/1399_CountLargestGroup.js)
