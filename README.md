@@ -1,6 +1,8 @@
 # Leetcode Practice
 
 ## JavaScript
+[2833.Furthest Point From Origin](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/2833_FurthestPointFromOrigin.js)
+
 [2129.Capitalize the Title](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/2129_CapitalizeTheTitle.js)
 
 [1413.Minimum Value to Get Positive Step by Step Sum](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/1413_MinimumValueToGetPositiveStepByStepSum.js)
