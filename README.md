@@ -1,6 +1,8 @@
 # Leetcode Practice
 
 ## JavaScript
+[2490.Circular Sentence](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/2490_CircularSentence.js)
+
 [1408.String Matching in an Array](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/1408_StringMatchingInAnArray.js)
 
 [2833.Furthest Point From Origin](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/2833_FurthestPointFromOrigin.js)
