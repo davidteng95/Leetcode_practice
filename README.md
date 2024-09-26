@@ -1,6 +1,8 @@
 # Leetcode Practice
 
 ## JavaScript
+[1903.Largest Odd Number in String](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/1903_LargestOddNumberInString.js)
+
 [2490.Circular Sentence](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/2490_CircularSentence.js)
 
 [1408.String Matching in an Array](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/1408_StringMatchingInAnArray.js)
