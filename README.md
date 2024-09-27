@@ -1,6 +1,8 @@
 # Leetcode Practice
 
 ## JavaScript
+[1078.Occurrences After Bigram](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/1078_OccurrencesAfterBigram.js)
+
 [1903.Largest Odd Number in String](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/1903_LargestOddNumberInString.js)
 
 [2490.Circular Sentence](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/2490_CircularSentence.js)
