@@ -1,6 +1,8 @@
 # Leetcode Practice
 
 ## JavaScript
+[217.Contains Duplicate](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/217_ContainsDuplicate.js)
+
 [1078.Occurrences After Bigram](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/1078_OccurrencesAfterBigram.js)
 
 [1903.Largest Odd Number in String](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/1903_LargestOddNumberInString.js)
