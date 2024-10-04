@@ -1,6 +1,8 @@
 # Leetcode Practice
 
 ## JavaScript
+[1491.Average Salary Excluding the Minimum and Maximum Salary](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/1491_AverageSalaryExcludingTheMinimumAndMaximumSalary.js)
+
 [2164.Sort Even and Odd Indices Independently](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/2164_SortEvenAndOddIndicesIndependently.js)
 
 [387.First Unique Character in a String](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/387_FirstUniqueCharacterInAString.js)
