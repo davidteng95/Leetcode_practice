@@ -1,6 +1,8 @@
 # Leetcode Practice
 
 ## JavaScript
+[2903.Find Indices With Index and Value Difference I](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/2903_FindIndicesWithIndexAndValueDifferenceI.js)
+
 [2231.Largest Number After Digit Swaps by Parity](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/2231_LargestNumberAfterDigitSwapsByParity.js)
 
 [1491.Average Salary Excluding the Minimum and Maximum Salary](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/1491_AverageSalaryExcludingTheMinimumAndMaximumSalary.js)
