@@ -1,6 +1,8 @@
 # Leetcode Practice
 
 ## JavaScript
+[1995.Count Special Quadruplets](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/1995_CountSpecialQuadruplets.js)
+
 [2600.K Items With the Maximum Sum](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/2600_KItemsWithTheMaximumSum.js)
 
 [2903.Find Indices With Index and Value Difference I](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/2903_FindIndicesWithIndexAndValueDifferenceI.js)
