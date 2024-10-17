@@ -1,6 +1,8 @@
 # Leetcode Practice
 
 ## JavaScript
+[896.Monotonic Array](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/896_MonotonicArray.js)
+
 [1995.Count Special Quadruplets](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/1995_CountSpecialQuadruplets.js)
 
 [2600.K Items With the Maximum Sum](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/2600_KItemsWithTheMaximumSum.js)
