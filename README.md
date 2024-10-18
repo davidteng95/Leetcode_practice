@@ -1,6 +1,8 @@
 # Leetcode Practice
 
 ## JavaScript
+[1952.Three Divisors](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/1952_ThreeDivisors.js)
+
 [896.Monotonic Array](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/896_MonotonicArray.js)
 
 [1995.Count Special Quadruplets](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/1995_CountSpecialQuadruplets.js)
