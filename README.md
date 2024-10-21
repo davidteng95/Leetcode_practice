@@ -1,6 +1,8 @@
 # Leetcode Practice
 
 ## JavaScript
+[1422.Maximum Score After Splitting a String](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/1422_MaximumScoreAfterSplittingAString.js)
+
 [1952.Three Divisors](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/1952_ThreeDivisors.js)
 
 [896.Monotonic Array](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/896_MonotonicArray.js)
