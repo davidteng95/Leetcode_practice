@@ -1,6 +1,8 @@
 # Leetcode Practice
 
 ## JavaScript
+[521.Longest Uncommon Subsequence I](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/521_LongestUncommonSubsequenceI.js)
+
 [1287.Element Appearing More Than 25% In Sorted Array](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/1287_ElementAppearingMoreThan25%25InSortedArray.js)
 
 [1422.Maximum Score After Splitting a String](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/1422_MaximumScoreAfterSplittingAString.js)
