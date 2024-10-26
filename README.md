@@ -1,6 +1,8 @@
 # Leetcode Practice
 
 ## JavaScript
+[485.Max Consecutive Ones](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/485_MaxConsecutiveOnes.js)
+
 [521.Longest Uncommon Subsequence I](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/521_LongestUncommonSubsequenceI.js)
 
 [1287.Element Appearing More Than 25% In Sorted Array](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/1287_ElementAppearingMoreThan25%25InSortedArray.js)
