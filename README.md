@@ -1,6 +1,8 @@
 # Leetcode Practice
 
 ## JavaScript
+[2455.Average Value of Even Numbers That Are Divisble by Three](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/2455_AverageValueOfEvenNumbersThatAreDivisibleByThree.js)
+
 [485.Max Consecutive Ones](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/485_MaxConsecutiveOnes.js)
 
 [521.Longest Uncommon Subsequence I](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/521_LongestUncommonSubsequenceI.js)
