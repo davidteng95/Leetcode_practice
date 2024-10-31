@@ -1,6 +1,8 @@
 # Leetcode Practice
 
 ## JavaScript
+[190.Reverse Bits](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/190_ReverseBits.js)
+
 [1446.Consecutive Characters](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/1446_ConsecutiveCharacters.js)
 
 [2455.Average Value of Even Numbers That Are Divisble by Three](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/2455_AverageValueOfEvenNumbersThatAreDivisibleByThree.js)
