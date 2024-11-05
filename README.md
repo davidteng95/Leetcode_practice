@@ -1,6 +1,8 @@
 # Leetcode Practice
 
 ## JavaScript
+[3046.Split the Array](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/3046_SplitTheArray.js)
+
 [796.Rotate String](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/796_RotateString.js)
 
 [190.Reverse Bits](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/190_ReverseBits.js)
