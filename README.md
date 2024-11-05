@@ -1,6 +1,8 @@
 # Leetcode Practice
 
 ## JavaScript
+[796.Rotate String](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/796_RotateString.js)
+
 [190.Reverse Bits](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/190_ReverseBits.js)
 
 [1446.Consecutive Characters](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/1446_ConsecutiveCharacters.js)
