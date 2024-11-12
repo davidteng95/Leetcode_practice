@@ -1,6 +1,8 @@
 # Leetcode Practice
 
 ## JavaScript
+[2016.Maximum Difference Between Increasing Elements](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/2016_MaximumDifferenceBetweenIncreasingElements.js)
+
 [3120.Count the Number of Special Characters I](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/3120_CountTheNumberOfSpecialCharactersI.js)
 
 [3046.Split the Array](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/3046_SplitTheArray.js)
