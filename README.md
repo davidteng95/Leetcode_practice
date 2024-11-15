@@ -1,6 +1,8 @@
 # Leetcode Practice
 
 ## JavaScript
+[3105.Longest Strictly Increasing or Strictly Decreasing Subarray](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/3105_LongestStrictlyIncreasingOrStrictlyDecreasingSubarray.js)
+
 [2027.Minimum Moves to Convert String](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/2027_MinimumMovesToConvertString.js)
 
 [2016.Maximum Difference Between Increasing Elements](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/2016_MaximumDifferenceBetweenIncreasingElements.js)
