@@ -1,6 +1,8 @@
 # Leetcode Practice
 
 ## JavaScript
+[2605.Form Smallest Number From Two Digit Arrays](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/2605_FormSmallestNumberFromTwoDigitArrays.js)
+
 [3330.Find the Original Typed String I](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/3330_FindTheOriginalTypedStringI.js)
 
 [3105.Longest Strictly Increasing or Strictly Decreasing Subarray](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/3105_LongestStrictlyIncreasingOrStrictlyDecreasingSubarray.js)
