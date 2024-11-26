@@ -1,6 +1,8 @@
 # Leetcode Practice
 
 ## JavaScript
+[1556.Thousand Separator](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/1556_ThousandSeparator.js)
+
 [2481.Minimum Cuts to Divide a Circle](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/2481_MinimumCutsToDivideACircle.js)
 
 [1317.Convert Integer to the Sum of Two No-Zero Integers](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/1317_ConvertIntegerToTheSumOfTwoNo-ZeroIntegers.js)
