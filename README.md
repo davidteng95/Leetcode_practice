@@ -1,6 +1,8 @@
 # Leetcode Practice
 
 ## JavaScript
+[3216.Lexicographically Smallest String After a Swap](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/3216_LexicographicallySmallestStringAfterASwap.js)
+
 [1556.Thousand Separator](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/1556_ThousandSeparator.js)
 
 [2481.Minimum Cuts to Divide a Circle](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/2481_MinimumCutsToDivideACircle.js)
