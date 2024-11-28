@@ -1,6 +1,8 @@
 # Leetcode Practice
 
 ## JavaScript
+[2729.Check if The Number is Fascinating](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/2729_CheckIfTheNumberIsFascinating.js)
+
 [3216.Lexicographically Smallest String After a Swap](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/3216_LexicographicallySmallestStringAfterASwap.js)
 
 [1556.Thousand Separator](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/1556_ThousandSeparator.js)
