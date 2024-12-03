@@ -1,6 +1,8 @@
 # Leetcode Practice
 
 ## JavaScript
+[1893.Check if All the Integers in a Range Are Covered](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/1893_CheckIfAllTheIntegersInARangeAreCovered.js)
+
 [1005.Maximize Sum Of Array After K Negations](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/1005_MaximizeSumOfArrayAfterKNegations.js)
 
 [2729.Check if The Number is Fascinating](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/2729_CheckIfTheNumberIsFascinating.js)
