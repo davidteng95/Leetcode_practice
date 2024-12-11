@@ -1,6 +1,8 @@
 # Leetcode Practice
 
 ## JavaScript
+[2574.Left and Right Sum Differences](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/2574_LeftAndRightSumDifferences.js)
+
 [674.Longest Continuous Increasing Subsequence](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/674_LongestContinuousIncreasingSubsequence.js)
 
 [2396.Strictly Palindromic Number](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/2396_StrictlyPalindromicNumber.js)
