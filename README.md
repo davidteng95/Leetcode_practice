@@ -1,6 +1,8 @@
 # Leetcode Practice
 
 ## JavaScript
+[3300.Minimum Element After Replacement With Digit Sum](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/3300_MinimumElementAfterReplacementWithDigitSum.js)
+
 [2161.Partition Array According to Given Pivot](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/2161_PartitionArrayAccordingToGivenPivot.js)
 
 [2574.Left and Right Sum Differences](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/2574_LeftAndRightSumDifferences.js)
