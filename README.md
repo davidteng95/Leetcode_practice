@@ -1,6 +1,8 @@
 # Leetcode Practice
 
 ## JavaScript
+[3340.Check Balanced String](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/3340_CheckBalancedString.js)
+
 [3162.Find the Number of Good Pairs I](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/3162_FindTheNumberOfGoodPairs.js)
 
 [2956.Find Common Elements Between Two Arrays](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/2256_FindCommonElementsBetweenTwoArrays.js)
