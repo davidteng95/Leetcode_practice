@@ -1,6 +1,8 @@
 # Leetcode Practice
 
 ## JavaScript
+[3285.Find Indices of Stable Mountains](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/3285_FindIndicesOfStableMountains.js)
+
 [3340.Check Balanced String](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/3340_CheckBalancedString.js)
 
 [3162.Find the Number of Good Pairs I](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/3162_FindTheNumberOfGoodPairs.js)
