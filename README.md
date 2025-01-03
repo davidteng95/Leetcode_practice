@@ -1,6 +1,8 @@
 # Leetcode Practice
 
 ## JavaScript
+[2053.Kth Distinct String in an Array](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/2053_KthDistinctStringInAnArray.js)
+
 [3146.Permutation Difference between Two Strings](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/3146_PermutationDifferenceBetweenTwoStrings.js)
 
 [3285.Find Indices of Stable Mountains](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/3285_FindIndicesOfStableMountains.js)
