@@ -1,6 +1,8 @@
 # Leetcode Practice
 
 ## JavaScript
+[1877.Minimize Maximum Pair Sum in Array](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/1877_MinimizeMaximumPairSumInArray.js)
+
 [2744.Find Maximum Number of String Pairs](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/2744_FindMaximumNumberOfStringPairs.js)
 
 [2053.Kth Distinct String in an Array](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/2053_KthDistinctStringInAnArray.js)
