@@ -1,6 +1,8 @@
 # Leetcode Practice
 
 ## JavaScript
+[2697.Lexicographically Smallest Palindrome](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/2697_LexicographicallySmallestPalindrome.js)
+
 [242.Valid Anagram](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/242_ValidAnagram.js)
 
 [1877.Minimize Maximum Pair Sum in Array](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/1877_MinimizeMaximumPairSumInArray.js)
