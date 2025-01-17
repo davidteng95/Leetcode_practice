@@ -1,6 +1,8 @@
 # Leetcode Practice
 
 ## JavaScript
+[3168.Minimum Number of Chairs in a Waiting Room](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/3168_MinimumNumberOfChairsInAWaitingRoom.js)
+
 [3232.Find if Digit Game Can Be Won](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/3232_FindIfDigitGameCanBeWon.js)
 
 [2697.Lexicographically Smallest Palindrome](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/2697_LexicographicallySmallestPalindrome.js)
