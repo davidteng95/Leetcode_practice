@@ -1,6 +1,8 @@
 # Leetcode Practice
 
 ## JavaScript
+[2125.Number of Laser Beams in a Bank](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/2125_NumberOfLaserBeamsInABank.js)
+
 [3168.Minimum Number of Chairs in a Waiting Room](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/3168_MinimumNumberOfChairsInAWaitingRoom.js)
 
 [3232.Find if Digit Game Can Be Won](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/3232_FindIfDigitGameCanBeWon.js)
