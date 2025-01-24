@@ -1,6 +1,8 @@
 # Leetcode Practice
 
 ## JavaScript
+[1748.Sum of Unique Elements](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/1748_SumOfUniqueElements.js)
+
 [2079.Watering Plants](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/2079_WateringPlants.js)
 
 [2125.Number of Laser Beams in a Bank](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/2125_NumberOfLaserBeamsInABank.js)
