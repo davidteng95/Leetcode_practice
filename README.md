@@ -1,6 +1,8 @@
 # Leetcode Practice
 
 ## JavaScript
+[1941.Check if All Characters Have Equal Number of Occurrences](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/1941_CheckIfAllCharactersHaveEqualNumberOfOccurrences.js)
+
 [1748.Sum of Unique Elements](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/1748_SumOfUniqueElements.js)
 
 [2079.Watering Plants](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/2079_WateringPlants.js)
