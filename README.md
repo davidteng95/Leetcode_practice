@@ -1,6 +1,8 @@
 # Leetcode Practice
 
 ## JavaScript
+[1945.Sum of Digits of String After Convert](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/1945_SumOfDigitsOfStringAfterConvert.js)
+
 [1910.Remove All Occurrences of a Substring](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/1910_RemoveAllOccurrencesOfASubstring.js)
 
 [1812.Determine Color of a Chessboard Square](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/1812_DetermineColorOfAChessboardSquare.js)
