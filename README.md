@@ -1,6 +1,8 @@
 # Leetcode Practice
 
 ## JavaScript
+[3184.Count Pairs That Form a Complete Day I](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/3184_CountPairsThatFormACompleteDayI.js)
+
 [3005.Count Elements With Maximum Frequency](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/3005_CountElementsWithMaximumFrequency.js)
 
 [1945.Sum of Digits of String After Convert](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/1945_SumOfDigitsOfStringAfterConvert.js)
