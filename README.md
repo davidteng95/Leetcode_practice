@@ -1,6 +1,8 @@
 # Leetcode Practice
 
 ## JavaScript
+[3264.Final Array State After K Multiplication Operations I](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/3264_FinalArrayStateAfterKMultiplicationOperationsI.js)
+
 [1374.Generate a String With Characters That Have Odd Counts](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/1374_GenerateAStringWithCharactersThatHaveOddCounts.js)
 
 [3184.Count Pairs That Form a Complete Day I](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/3184_CountPairsThatFormACompleteDayI.js)
