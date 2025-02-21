@@ -1,6 +1,8 @@
 # Leetcode Practice
 
 ## JavaScript
+[3280.Convert Date to Binary](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/3280_ConvertDateToBinary.js)
+
 [3190.Find Minimum Operations to Make All Elements Divisible by Three](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/3190_FindMinimumOperationsToMakeAllElementsDivisibleByThree.js)
 
 [3110.Score of a String](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/3110_ScoreOfAString.js)
