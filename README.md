@@ -1,6 +1,8 @@
 # Leetcode Practice
 
 ## JavaScript
+[2951.Find the Peaks](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/2951_FindThePeaks.js)
+
 [1221.Split a String in Balanced Strings](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/1221_SplitAStringInBalancedStrings.js)
 
 [3280.Convert Date to Binary](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/3280_ConvertDateToBinary.js)
