@@ -1,6 +1,8 @@
 # Leetcode Practice
 
 ## JavaScript
+[605.Can Place Flowers](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/605_CanPlaceFlowers.js)
+
 [2951.Find the Peaks](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/2951_FindThePeaks.js)
 
 [1221.Split a String in Balanced Strings](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/1221_SplitAStringInBalancedStrings.js)
