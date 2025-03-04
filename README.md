@@ -1,6 +1,8 @@
 # Leetcode Practice
 
 ## JavaScript
+[283.Move Zeroes](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/283_MoveZeroes.js)
+
 [605.Can Place Flowers](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/605_CanPlaceFlowers.js)
 
 [2951.Find the Peaks](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/2951_FindThePeaks.js)
