@@ -1,6 +1,8 @@
 # Leetcode Practice
 
 ## JavaScript
+[3461.Check If Digits Are Equal in String After Operations I](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/3461_CheckIfDigitsAreEqualInStringAfterOperationsI.js)
+
 [283.Move Zeroes](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/283_MoveZeroes.js)
 
 [605.Can Place Flowers](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/605_CanPlaceFlowers.js)
