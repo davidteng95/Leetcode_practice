@@ -1,6 +1,8 @@
 # Leetcode Practice
 
 ## JavaScript
+[3289.The Two Sneaky Numbers of Digitville](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/3289_TheTwoSneakyNumbersOfDigitville.js)
+
 [3461.Check If Digits Are Equal in String After Operations I](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/3461_CheckIfDigitsAreEqualInStringAfterOperationsI.js)
 
 [283.Move Zeroes](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/283_MoveZeroes.js)
