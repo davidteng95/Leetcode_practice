@@ -1,6 +1,8 @@
 # Leetcode Practice
 
 ## JavaScript
+[338.Counting Bits](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/338_CountingBits.js)
+
 [1122.Relative Sort Array](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/1122_RelativeSortArray.js)
 
 [1822.Sign of the Product of an Array](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/1822_SignOfTheProductOfAnArray.js)
