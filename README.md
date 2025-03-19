@@ -1,6 +1,8 @@
 # Leetcode Practice
 
 ## JavaScript
+[942.DI String Match](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/942_DIStringMatch.js)
+
 [338.Counting Bits](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/338_CountingBits.js)
 
 [1122.Relative Sort Array](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/1122_RelativeSortArray.js)
