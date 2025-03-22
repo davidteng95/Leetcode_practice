@@ -1,6 +1,8 @@
 # Leetcode Practice
 
 ## JavaScript
+[2220.Minimum Bit Flips to Convert Number](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/2220_MinimumBitFlipsToConvertNumber.js)
+
 [942.DI String Match](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/942_DIStringMatch.js)
 
 [338.Counting Bits](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/338_CountingBits.js)
