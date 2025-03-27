@@ -1,6 +1,8 @@
 # Leetcode Practice
 
 ## JavaScript
+[3432.Count Partitions with Even Sum Difference](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/3432_CountPartitionsWithEvenSumDifference.js)
+
 [2220.Minimum Bit Flips to Convert Number](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/2220_MinimumBitFlipsToConvertNumber.js)
 
 [942.DI String Match](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/942_DIStringMatch.js)
