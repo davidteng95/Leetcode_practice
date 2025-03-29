@@ -1,6 +1,8 @@
 # Leetcode Practice
 
 ## JavaScript
+[961.N-Repeated Element in Size 2N Array](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/961_NRepeatedElementInSize2NArray.js)
+
 [1837.Sum of Digits in Base K](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/1837_SumOfDigitsInBaseK.js)
 
 [3432.Count Partitions with Even Sum Difference](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/3432_CountPartitionsWithEvenSumDifference.js)
