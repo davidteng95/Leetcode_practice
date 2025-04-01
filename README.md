@@ -1,6 +1,8 @@
 # Leetcode Practice
 
 ## JavaScript
+[3194.Minimum Average of Smallest and Largest Elements](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/3194_MinimumAverageOfSmallestAndLargestElements.js)
+
 [961.N-Repeated Element in Size 2N Array](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/961_NRepeatedElementInSize2NArray.js)
 
 [1837.Sum of Digits in Base K](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/1837_SumOfDigitsInBaseK.js)
