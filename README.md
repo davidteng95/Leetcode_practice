@@ -1,6 +1,8 @@
 # Leetcode Practice
 
 ## JavaScript
+[350.Intersection of Two Arrays II](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/350_IntersectionOfTwoArraysII.js)
+
 [3194.Minimum Average of Smallest and Largest Elements](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/3194_MinimumAverageOfSmallestAndLargestElements.js)
 
 [961.N-Repeated Element in Size 2N Array](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/961_NRepeatedElementInSize2NArray.js)
