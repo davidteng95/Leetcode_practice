@@ -1,6 +1,8 @@
 # Leetcode Practice
 
 ## JavaScript
+[2595.Number of Even and Odd Bits](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/2595_NumberOfEvenAndOddBits.js)
+
 [3492.Maximum Containers on a Ship](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/3492_MaximumContainersOnAShip.js)
 
 [350.Intersection of Two Arrays II](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/350_IntersectionOfTwoArraysII.js)
