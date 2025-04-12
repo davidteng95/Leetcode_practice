@@ -1,6 +1,8 @@
 # Leetcode Practice
 
 ## JavaScript
+[461.Hamming Distance](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/461_HammingDistance.js)
+
 [3042.Count Prefix and Suffix Pairs I](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/3042_CountPrefixAndSuffixPairsI.js)
 
 [2595.Number of Even and Odd Bits](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/2595_NumberOfEvenAndOddBits.js)
