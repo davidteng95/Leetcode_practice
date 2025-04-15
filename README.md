@@ -1,6 +1,8 @@
 # Leetcode Practice
 
 ## JavaScript
+[1694.Reformat Phone Number](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/1694_ReformatPhoneNumber.js)
+
 [461.Hamming Distance](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/461_HammingDistance.js)
 
 [3042.Count Prefix and Suffix Pairs I](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/3042_CountPrefixAndSuffixPairsI.js)
