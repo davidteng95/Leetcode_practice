@@ -1,6 +1,8 @@
 # Leetcode Practice
 
 ## JavaScript
+[3274.Check if Two Chessboard Squares Have the Same Color](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/3274_CheckIfTwoChessboardSquaresHaveTheSameColor.js)
+
 [1694.Reformat Phone Number](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/1694_ReformatPhoneNumber.js)
 
 [461.Hamming Distance](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/461_HammingDistance.js)
