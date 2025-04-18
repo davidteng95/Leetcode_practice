@@ -1,6 +1,8 @@
 # Leetcode Practice
 
 ## JavaScript
+[3423.Maximum Difference Between Adjacent Elements in a Circular Array](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/3423_MaximumDifferenceBetweenAdjacentElementsInACircularArray.js)
+
 [3274.Check if Two Chessboard Squares Have the Same Color](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/3274_CheckIfTwoChessboardSquaresHaveTheSameColor.js)
 
 [1694.Reformat Phone Number](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/1694_ReformatPhoneNumber.js)
