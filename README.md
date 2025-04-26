@@ -1,6 +1,8 @@
 # Leetcode Practice
 
 ## JavaScript
+[14.Longest Common Prefix](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/14_LongestCommonPrefix.js)
+
 [1002.Find Common Characters](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/1002_FindCommonCharacters.js)
 
 [3024.Type of Triangle](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/3024_TypeOfTriangle.js)
