@@ -1,6 +1,8 @@
 # Leetcode Practice
 
 ## JavaScript
+[414.Third Maximum Number](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/414_ThirdMaximumNumber.js)
+
 [3396.Minimum Number of Operations to Make Elements in Array Distinct](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/3396_MinimumNumberOfOperationsToMakeElementsInArrayDistinct.js)
 
 [14.Longest Common Prefix](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/14_LongestCommonPrefix.js)
