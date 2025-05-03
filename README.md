@@ -1,6 +1,8 @@
 # Leetcode Practice
 
 ## JavaScript
+[747.Largest Number At Least Twice of Others](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/747_LargestNumberAtLeastTwiceOfOthers.js)
+
 [414.Third Maximum Number](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/414_ThirdMaximumNumber.js)
 
 [3396.Minimum Number of Operations to Make Elements in Array Distinct](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/3396_MinimumNumberOfOperationsToMakeElementsInArrayDistinct.js)
