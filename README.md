@@ -1,6 +1,8 @@
 # Leetcode Practice
 
 ## JavaScript
+[1496.Path Crossing](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/1496_PathCrossing.js)
+
 [819.Most Common Word](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/819_MostCommonWord.js)
 
 [747.Largest Number At Least Twice of Others](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/747_LargestNumberAtLeastTwiceOfOthers.js)
