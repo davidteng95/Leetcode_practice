@@ -1,6 +1,8 @@
 # Leetcode Practice
 
 ## JavaScript
+[860.Lemonade Change](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/860_LemonadeChange.js)
+
 [812.Largest Triangle Area](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/812_LargestTriangleArea.js)
 
 [1496.Path Crossing](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/1496_PathCrossing.js)
