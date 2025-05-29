@@ -1,6 +1,8 @@
 # Leetcode Practice
 
 ## JavaScript
+[3512.Minimum Operations to Make Array Sum Divisible by K](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/3512_MinimumOperationsToMakeArraySumDivisibleByK.js)
+
 [3467.Transform Array by Parity](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/3467_TransformArrayByParity.js)
 
 [1984.Minimum Difference Between Highest and Lowest of K Scores](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/1984_MinimumDifferenceBetweenHighestAndLowestOfKScores.js)
