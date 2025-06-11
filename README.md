@@ -1,6 +1,8 @@
 # Leetcode Practice
 
 ## JavaScript
+[231.Power of Two](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/231_PowerOfTwo.js)
+
 [3516.Find Closest Person](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/3516_FindClosestPerson.js)
 
 [2215.Find the Difference of Two Arrays](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/2215_FindTheDifferenceOfTwoArrays.js)
