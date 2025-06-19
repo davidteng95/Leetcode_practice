@@ -1,6 +1,8 @@
 # Leetcode Practice
 
 ## JavaScript
+[3345.Smallest Divisible Digit Product I](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/3345_SmallestDivisibleDigitProductI.js)
+
 [231.Power of Two](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/231_PowerOfTwo.js)
 
 [3516.Find Closest Person](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/3516_FindClosestPerson.js)
