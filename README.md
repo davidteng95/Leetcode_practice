@@ -1,6 +1,8 @@
 # Leetcode Practice
 
 ## JavaScript
+[326.Power of Three](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/326_PowerOfThree.js)
+
 [3345.Smallest Divisible Digit Product I](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/3345_SmallestDivisibleDigitProductI.js)
 
 [231.Power of Two](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/231_PowerOfTwo.js)
