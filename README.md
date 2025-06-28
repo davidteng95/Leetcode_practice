@@ -1,6 +1,8 @@
 # Leetcode Practice
 
 ## JavaScript
+[263.Ugly Number](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/263_UglyNumber.js)
+
 [3536.Maximum Product of Two Digits](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/3536_MaximumProductOfTwoDigits.js)
 
 [326.Power of Three](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/326_PowerOfThree.js)
