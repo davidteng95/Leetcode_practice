@@ -1,6 +1,8 @@
 # Leetcode Practice
 
 ## JavaScript
+[2485.Find the Pivot Integer](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/2485_FindThePivotInteger.js)
+
 [263.Ugly Number](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/263_UglyNumber.js)
 
 [3536.Maximum Product of Two Digits](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/3536_MaximumProductOfTwoDigits.js)
