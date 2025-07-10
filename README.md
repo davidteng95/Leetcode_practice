@@ -1,6 +1,8 @@
 # Leetcode Practice
 
 ## JavaScript
+[3550.Smallest Index With Digit Sum Equal to Index](ttps://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/3550_SmallestIndexWithDigitSumEqualToIndex.js)
+
 [342.Power of Four](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/342_PowerOfFour.js)
 
 [2485.Find the Pivot Integer](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/2485_FindThePivotInteger.js)
