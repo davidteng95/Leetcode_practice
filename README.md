@@ -1,6 +1,8 @@
 # Leetcode Practice
 
 ## JavaScript
+[3270.Find the Key of the Numbers](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/3270_FindTheKeyOfNumbers.js)
+
 [2582.Pass the Pillow](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/2582_PassThePillow.js)
 
 [3550.Smallest Index With Digit Sum Equal to Index](ttps://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/3550_SmallestIndexWithDigitSumEqualToIndex.js)
