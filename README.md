@@ -1,6 +1,8 @@
 # Leetcode Practice
 
 ## JavaScript
+[806.Number of Lines To Write String](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/806_NumberOfLinesToWriteString.js)
+
 [3270.Find the Key of the Numbers](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/3270_FindTheKeyOfNumbers.js)
 
 [2582.Pass the Pillow](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/2582_PassThePillow.js)
