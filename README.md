@@ -1,6 +1,8 @@
 # Leetcode Practice
 
 ## JavaScript
+[1588.Sum of All Odd Length Subarrays](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/1588_SumOfAllOddLengthSubarrays.js)
+
 [1103.Distribute Candies to People](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/1103_DistributeCandiesToPeople.js)
 
 [806.Number of Lines To Write String](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/806_NumberOfLinesToWriteString.js)
