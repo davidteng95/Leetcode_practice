@@ -1,6 +1,8 @@
 # Leetcode Practice
 
 ## JavaScript
+[724.Find Pivot Index](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/724_FindPivotIndex.js)
+
 [3222.Find the Winning Player in Coin Game](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/3222_FindTheWinningPlayerInCoinGame.js)
 
 [1588.Sum of All Odd Length Subarrays](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/1588_SumOfAllOddLengthSubarrays.js)
