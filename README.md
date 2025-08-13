@@ -1,6 +1,8 @@
 # Leetcode Practice
 
 ## JavaScript
+[55.Jump Game](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/55_JumpGame.js)
+
 [3541.Find Most Frequent Vowel and Consonant](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/3541_FindMostFrequentVowelAndConsonant.js)
 
 [724.Find Pivot Index](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/724_FindPivotIndex.js)
