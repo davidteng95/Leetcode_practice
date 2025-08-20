@@ -1,6 +1,8 @@
 # Leetcode Practice
 
 ## JavaScript
+[1844.Replace All Digits with Characters](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/1844_ReplaceAllDigitsWithCharacters.js)
+
 [55.Jump Game](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/55_JumpGame.js)
 
 [3541.Find Most Frequent Vowel and Consonant](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/3541_FindMostFrequentVowelAndConsonant.js)
