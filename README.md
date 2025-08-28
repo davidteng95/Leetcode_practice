@@ -1,6 +1,8 @@
 # Leetcode Practice
 
 ## JavaScript
+[2103.Rings and Rods](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/2103_RingsAndRods.js)
+
 [1356.Sort Integers by The Number of 1 Bits](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/1356_SortIntegersByTheNumberOf1Bits.js)
 
 [1844.Replace All Digits with Characters](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/1844_ReplaceAllDigitsWithCharacters.js)
