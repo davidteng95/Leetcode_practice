@@ -1,6 +1,8 @@
 # Leetcode Practice
 
 ## JavaScript
+[1266.Minimum Time Visiting All Points](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/1266_MinimumTimeVisitingAllPoints.js)
+
 [3174.Clear Digits](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/3174_ClearDigits.js)
 
 [2103.Rings and Rods](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/2103_RingsAndRods.js)
