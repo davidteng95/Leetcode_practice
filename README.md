@@ -1,6 +1,8 @@
 # Leetcode Practice
 
 ## JavaScript
+[2715.Timeout Cancellation](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/2715_TimeoutCancellation.js)
+
 [1266.Minimum Time Visiting All Points](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/1266_MinimumTimeVisitingAllPoints.js)
 
 [3174.Clear Digits](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/3174_ClearDigits.js)
