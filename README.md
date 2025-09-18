@@ -1,6 +1,8 @@
 # Leetcode Practice
 
 ## JavaScript
+[3668.Restore Finishing Order](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/3668_RestoreFinishingOrder.js)
+
 [2715.Timeout Cancellation](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/2715_TimeoutCancellation.js)
 
 [1266.Minimum Time Visiting All Points](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/1266_MinimumTimeVisitingAllPoints.js)
