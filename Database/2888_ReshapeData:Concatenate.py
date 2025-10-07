@@ -1,4 +1,4 @@
-/*
+'''
 DataFrame df1
 +-------------+--------+
 | Column Name | Type   |
@@ -55,7 +55,7 @@ Output:
 +------------+---------+-----+
 Explanation:
 The two DataFramess are stacked vertically, and their rows are combined.
-*/
+'''
 
 import pandas as pd
 

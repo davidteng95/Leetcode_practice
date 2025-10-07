@@ -1,4 +1,4 @@
-/*
+'''
 DataFrame customers
 +-------------+--------+
 | Column Name | Type   |
@@ -39,7 +39,7 @@ Output:
 +-------------+---------+---------------------+
 Explanation:
 Alic (customer_id = 4) and Finn (customer_id = 5) both use john@example.com, so only the first occurrence of this email is retained.
-*/
+'''
 
 import pandas as pd
 
