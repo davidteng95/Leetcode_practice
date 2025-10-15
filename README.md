@@ -837,6 +837,8 @@
 [196.Delete Duplicate Emails](https://github.com/davidteng95/Leetcode_practice/blob/main/Database/196_DeleteDuplicateEmails.sql)
 
 ## Pandas
+[2885.Rename Columns](https://github.com/davidteng95/Leetcode_practice/blob/main/Database/2885_RenameColumns.py)
+
 [2884.Modify Columns](https://github.com/davidteng95/Leetcode_practice/blob/main/Database/2884_ModifyColumns.py)
 
 [2879.Display the First Three Rows](https://github.com/davidteng95/Leetcode_practice/blob/main/Database/2879_DisplayTheFirstThreeRows.py)
