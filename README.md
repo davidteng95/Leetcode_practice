@@ -837,6 +837,8 @@
 [196.Delete Duplicate Emails](https://github.com/davidteng95/Leetcode_practice/blob/main/Database/196_DeleteDuplicateEmails.sql)
 
 ## Pandas
+[2890.Reshape Data: Melt](https://github.com/davidteng95/Leetcode_practice/blob/main/Database/2890_ReshapeData%3AMelt.py)
+
 [2881.Create a New Column](https://github.com/davidteng95/Leetcode_practice/blob/main/Database/2881_CreateANewColumn.py)
 
 [2886.Change Data Type](https://github.com/davidteng95/Leetcode_practice/blob/main/Database/2886_ChangeDataType.py)
