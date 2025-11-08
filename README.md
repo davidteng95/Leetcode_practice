@@ -1,6 +1,8 @@
 # Leetcode Practice
 
 ## JavaScript
+[1572.Matrix Diagonal Sum](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/1572_MatrixDiagonalSum.js)
+
 [3701.Compute Alternating Sum](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/3701_ComputeAlternatingSum.js)
 
 [3498.Reverse Degree of a String](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/3498_ReverseDegreeOfAString.js)
