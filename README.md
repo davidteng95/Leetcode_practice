@@ -1,6 +1,8 @@
 # Leetcode Practice
 
 ## JavaScript
+[70.Climbing Stairs](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/70_ClimbingStairs.js)
+
 [3370.Smallest Number With All Set Bits](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/3370_SmallestNumberWithAllSetBits.js)
 
 [1572.Matrix Diagonal Sum](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/1572_MatrixDiagonalSum.js)
