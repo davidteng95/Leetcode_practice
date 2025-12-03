@@ -1,6 +1,8 @@
 # Leetcode Practice
 
 ## JavaScript
+[746.Min Cost Climbing Stairs](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/746_MinCostClimbingStairs.js)
+
 [1137.N-th Tribonacci Number](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/1137_N-thTribonacciNumber.js)
 
 [70.Climbing Stairs](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/70_ClimbingStairs.js)
