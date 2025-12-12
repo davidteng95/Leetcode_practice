@@ -1,6 +1,8 @@
 # Leetcode Practice
 
 ## JavaScript
+[643.Maximum Average Subarray I](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/643_MaximumAverageSubarrayI.js)
+
 [746.Min Cost Climbing Stairs](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/746_MinCostClimbingStairs.js)
 
 [1137.N-th Tribonacci Number](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/1137_N-thTribonacciNumber.js)
