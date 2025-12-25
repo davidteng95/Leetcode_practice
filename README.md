@@ -1,6 +1,8 @@
 # Leetcode Practice
 
 ## JavaScript
+[88.Merge Sorted Array](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/88_MergeSortedArray.js)
+
 [1652.Defuse the Bomb](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/1652_DefuseTheBomb.js)
 
 [643.Maximum Average Subarray I](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/643_MaximumAverageSubarrayI.js)
