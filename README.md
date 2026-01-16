@@ -1,6 +1,8 @@
 # Leetcode Practice
 
 ## JavaScript
+[495.Teemo Attacking](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/495_TeemoAttacking.js)
+
 [56.Merge Intervals](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/56_MergeIntervals.js)
 
 [80.Remove Duplicates from Sorted Array II](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/80_RemoveDuplicatesFromSortedArrayII.js)
