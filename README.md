@@ -1,6 +1,8 @@
 # Leetcode Practice
 
 ## JavaScript
+[56.Merge Intervals](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/56_MergeIntervals.js)
+
 [80.Remove Duplicates from Sorted Array II](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/80_RemoveDuplicatesFromSortedArrayII.js)
 
 [88.Merge Sorted Array](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/88_MergeSortedArray.js)
