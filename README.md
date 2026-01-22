@@ -1,6 +1,8 @@
 # Leetcode Practice
 
 ## JavaScript
+[2446.Determine if Two Events Have Conflict](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/2446_DetermineIfTwoEventsHaveConflict.js)
+
 [495.Teemo Attacking](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/495_TeemoAttacking.js)
 
 [56.Merge Intervals](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/56_MergeIntervals.js)
