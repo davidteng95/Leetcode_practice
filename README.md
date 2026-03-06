@@ -1,6 +1,8 @@
 # Leetcode Practice
 
 ## JavaScript
+[2181.Merge Nodes in Between Zeros](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/2181_MergeNodesInBetweenZeros.js)
+
 [3731.Find Missing Elements](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/3731_FindMissingElements.js)
 
 [3760.Maximum Substrings With Distinct Start](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/3760_MaximumSubstringsWithDistinctStart.js)
