@@ -1,6 +1,8 @@
 # Leetcode Practice
 
 ## JavaScript
+[237.Delete Node in a Linked List](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/237_DeleteNodeInALinkedList.js)
+
 [817.Linked List Components](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/817_LinkedListComponents.js)
 
 [2181.Merge Nodes in Between Zeros](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/2181_MergeNodesInBetweenZeros.js)
