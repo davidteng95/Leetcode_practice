@@ -1,6 +1,8 @@
 # Leetcode Practice
 
 ## JavaScript
+[876.Middle of the Linked List](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/876_MiddleOfTheLinkedList.js)
+
 [237.Delete Node in a Linked List](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/237_DeleteNodeInALinkedList.js)
 
 [817.Linked List Components](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/817_LinkedListComponents.js)
