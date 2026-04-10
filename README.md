@@ -1,7 +1,7 @@
 # Leetcode Practice
 
 ## JavaScript
-[3794.Reverse String Prefix]()
+[3794.Reverse String Prefix](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/3683_EarliestTimeToFinishOneTask.js)
 
 [876.Middle of the Linked List](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/876_MiddleOfTheLinkedList.js)
 
