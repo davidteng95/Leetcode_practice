@@ -1,6 +1,8 @@
 # Leetcode Practice
 
 ## JavaScript
+[3866.First Unique Even Element](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/3866_FirstUniqueEvenElement.js)
+
 [3794.Reverse String Prefix](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/3683_EarliestTimeToFinishOneTask.js)
 
 [876.Middle of the Linked List](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/876_MiddleOfTheLinkedList.js)
