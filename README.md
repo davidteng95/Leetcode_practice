@@ -1,6 +1,8 @@
 # Leetcode Practice
 
 ## JavaScript
+[3736.Minimum Moves to Equal Array Elements III](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/3736_MinimumMovesToEqualArrayElementsIII.js)
+
 [3866.First Unique Even Element](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/3866_FirstUniqueEvenElement.js)
 
 [3794.Reverse String Prefix](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/3683_EarliestTimeToFinishOneTask.js)
