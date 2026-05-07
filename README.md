@@ -1,6 +1,8 @@
 # Leetcode Practice
 
 ## JavaScript
+[3783.Mirror Distance of an Integer](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/3783_MirrorDistanceOfAnInteger.js)
+
 [3697.Compute Decimal Representation](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/3697_ComputeDecimalRepresentation.js)
 
 [3736.Minimum Moves to Equal Array Elements III](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/3736_MinimumMovesToEqualArrayElementsIII.js)
