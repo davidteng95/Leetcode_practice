@@ -1,6 +1,8 @@
 # Leetcode Practice
 
 ## JavaScript
+[3884.First Matching Character From Both Ends](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/3884_FirstMatchingCharacterFromBothEnds.js)
+
 [3783.Mirror Distance of an Integer](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/3783_MirrorDistanceOfAnInteger.js)
 
 [3697.Compute Decimal Representation](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/3697_ComputeDecimalRepresentation.js)
