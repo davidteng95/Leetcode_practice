@@ -1,6 +1,8 @@
 # Leetcode Practice
 
 ## JavaScript
+[3750.Minimum Number of Flips to Reverse Binary String](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/3750_MinimumNumberOfFlipsToReverseBinaryString.js)
+
 [3884.First Matching Character From Both Ends](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/3884_FirstMatchingCharacterFromBothEnds.js)
 
 [3783.Mirror Distance of an Integer](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/3783_MirrorDistanceOfAnInteger.js)
