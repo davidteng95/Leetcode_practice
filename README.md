@@ -1,6 +1,8 @@
 # Leetcode Practice
 
 ## JavaScript
+[2666.Allow One Function Call](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/2666_AllowOneFunctionCall.js)
+
 [3750.Minimum Number of Flips to Reverse Binary String](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/3750_MinimumNumberOfFlipsToReverseBinaryString.js)
 
 [3884.First Matching Character From Both Ends](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/3884_FirstMatchingCharacterFromBothEnds.js)
