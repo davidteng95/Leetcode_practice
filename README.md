@@ -1,6 +1,8 @@
 # Leetcode Practice
 
 ## JavaScript
+[3925.Concatenate Array Wtih Reverse](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/3925_ConcatenateArrayWithReverse.js)
+
 [2666.Allow One Function Call](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/2666_AllowOneFunctionCall.js)
 
 [3750.Minimum Number of Flips to Reverse Binary String](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/3750_MinimumNumberOfFlipsToReverseBinaryString.js)
