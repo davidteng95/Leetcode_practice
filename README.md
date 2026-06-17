@@ -1,6 +1,8 @@
 # Leetcode Practice
 
 ## JavaScript
+[3945.Digit Frequency Score](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/3945_DigitFrequencyScore.js)
+
 [3898.Find the Degree of Each Vertex](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/3898_FindTheDegreeOfEachVertex.js)
 
 [3925.Concatenate Array Wtih Reverse](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/3925_ConcatenateArrayWithReverse.js)
