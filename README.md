@@ -1,6 +1,8 @@
 # Leetcode Practice
 
 ## JavaScript
+[3838.Weighted Word Mapping](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/3838_WeightedWordMapping.js)
+
 [3945.Digit Frequency Score](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/3945_DigitFrequencyScore.js)
 
 [3898.Find the Degree of Each Vertex](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/3898_FindTheDegreeOfEachVertex.js)
