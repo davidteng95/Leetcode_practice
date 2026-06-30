@@ -1,6 +1,8 @@
 # Leetcode Practice
 
 ## JavaScript
+[3895.Count Digital Appearances](http://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/3895_CountDigitAppearances.js)
+
 [3838.Weighted Word Mapping](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/3838_WeightedWordMapping.js)
 
 [3945.Digit Frequency Score](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/3945_DigitFrequencyScore.js)
