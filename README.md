@@ -1,6 +1,8 @@
 # Leetcode Practice
 
 ## JavaScript
+[3894.Traffic Signal Color](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/3894_TrafficSignalColor.js)
+
 [3895.Count Digital Appearances](http://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/3895_CountDigitAppearances.js)
 
 [3838.Weighted Word Mapping](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/3838_WeightedWordMapping.js)
