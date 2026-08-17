@@ -796,6 +796,8 @@
 [2667.Create Hello World Function](https://github.com/davidteng95/Leetcode_practice/blob/main/JavaScript_practice/2667_CreateHelloWorldFunction.js)
 
 ## SQL
+[607.Sales Person](https://github.com/davidteng95/Leetcode_practice/blob/main/Database/607_SalesPerson.sql)
+
 [1179.Reformat Department Table](https://github.com/davidteng95/Leetcode_practice/blob/main/Database/1179.ReformatDepartmentTable.sql)
 
 [1965.Employees With Missing Information](https://github.com/davidteng95/Leetcode_practice/blob/main/Database/1965_EmployeesWithMissingInformation.sql)
